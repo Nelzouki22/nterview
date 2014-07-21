@@ -8,7 +8,7 @@
   * Buy sell stock once to maximize profit
   * Buy sell stocks any number of times to maximum profit
 3. Given an array of elements check if elements in the array are consecutive or not. - [CheckIfArrayElementsAreConsecutive.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/CheckIfArrayElementsAreConsecutive.java)
-4. Given elements in array divide elements into two groups of closest possible sum - [DivideNumbersInEqualGroupWithClosestSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.java)
+4. Given elements in array divide elements into two groups of closest possible sum **Conflict with TugOfWar** - [DivideNumbersInEqualGroupWithClosestSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.java)
 5. Write a function to determine if array contains duplicate elements within k distance from each other - [DuplicateWithinkIndices.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/DuplicateWithinkIndices.java)
 6. Given an array and a number k < n, find all elements occurring more than n by k times - [FindElementsOccurringNByKTimesTetris.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/FindElementsOccurringNByKTimesTetris.java)
 7. Given a list of gas stations and amount of fuel they have, find a tour which travels all gas stations - [GasStationCircle.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/GasStationCircle.java)
@@ -35,7 +35,7 @@
 28. Stable marriage problem - [StableMarriageProblem.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/StableMarriageProblem.java)
 29. Given an unsorted array of nonnegative numbers , find a contiguous subarray with given sum - [SubarrayWithGivenSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/SubarrayWithGivenSum.java)
 30. Given an array, find triplet which sums to a given value - https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TripletInArray.java
-
+31.Given a set of n integers, divide the set in two subsets of n/2 sizes each such that the difference of the sum of two subsets is as minimum as possible - **Conflict with DivideNumbersInEqualGroupWithClosestSum **[TugOfWar.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TugOfWar.java)
 
 ###Binary Trees###
 ####Special Tree####
