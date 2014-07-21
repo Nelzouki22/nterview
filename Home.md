@@ -18,7 +18,11 @@
 11. kth largest element in an unsorted array using quick select - [KthElementInArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/KthElementInArray.java)
 12. kth largest element in two sorted array - [KthLargestInTwoSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/KthLargestInTwoSortedArray.java)
 13. Print next greater element for every element in array - [LargerElementOnRight.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LargerElementOnRight.java)
-14. 
+14. Given an array of 0s and 1s find the largest subarray with equal number of 0s and 1s - [LargestSubArrayWithEqual0sAnd1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LargestSubArrayWithEqual0sAnd1s.java)
+15. Longest increasing subsequence in an array with O(logN) speed - [LongestIncreasingSubSequenceOlogNMethod.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.java)
+16. Given an array maximize i - j  such that a[i] > a[j] - [MaximumIminusJSuchThatAiGTAj.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumIminusJSuchThatAiGTAj.java)
+17. Given an array, find maximum of all subarrays of size k - [MaximumOfSubarrayOfSizeK.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumOfSubarrayOfSizeK.java)
+18. 
 
 ###Binary Trees###
 ####Special Tree####
