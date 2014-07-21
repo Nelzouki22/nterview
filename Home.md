@@ -22,7 +22,9 @@
 15. Longest increasing subsequence in an array with O(logN) speed - [LongestIncreasingSubSequenceOlogNMethod.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.java)
 16. Given an array maximize i - j  such that a[i] > a[j] - [MaximumIminusJSuchThatAiGTAj.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumIminusJSuchThatAiGTAj.java)
 17. Given an array, find maximum of all subarrays of size k - [MaximumOfSubarrayOfSizeK.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumOfSubarrayOfSizeK.java)
-18. 
+18. Given an array of positive and negative numbers, find a subarray which has maximum product - [MaxProductSubarray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaxProductSubarray.java)
+19. Given an array of size n, the array contains numbers in range from 0 to k-1 where k is a positive integer and k <= n. Find the maximum repeating number in this array - [MaxRepeatingNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaxRepeatingNumber.java)
+20. 
 
 ###Binary Trees###
 ####Special Tree####
