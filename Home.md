@@ -36,6 +36,7 @@
 29. Given an unsorted array of nonnegative numbers , find a contiguous subarray with given sum - [SubarrayWithGivenSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/SubarrayWithGivenSum.java)
 30. Given an array, find triplet which sums to a given value - https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TripletInArray.java
 31. Given a set of n integers, divide the set in two subsets of n/2 sizes each such that the difference of the sum of two subsets is as minimum as possible - **Conflict with DivideNumbersInEqualGroupWithClosestSum** - [TugOfWar.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TugOfWar.java)
+32. Given an unsorted array convert it into a < b > c < d > e < f > g fashion - [ConvertAnArrayIntoDecreaseIncreaseFashion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java)
 
 ###Binary Trees###
 ####Special Tree####
