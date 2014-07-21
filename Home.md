@@ -8,7 +8,11 @@
   * Buy sell stock once to maximize profit
   * Buy sell stocks any number of times to maximum profit
 3. Given an array of elements check if elements in the array are consecutive or not. - [CheckIfArrayElementsAreConsecutive.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/CheckIfArrayElementsAreConsecutive.java)
-4. 
+4. Given elements in array divide elements into two groups of closest possible sum - [DivideNumbersInEqualGroupWithClosestSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.java)
+5. Write a function to determine if array contains duplicate elements within k distance from each other - [DuplicateWithinkIndices.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/DuplicateWithinkIndices.java)
+6. Given an array and a number k < n, find all elements occurring more than n by k times - [FindElementsOccurringNByKTimesTetris.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/FindElementsOccurringNByKTimesTetris.java)
+7. Given a list of gas stations and amount of fuel they have, find a tour which travels all gas stations - [GasStationCircle.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/GasStationCircle.java)
+8. 
 
 
 
