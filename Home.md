@@ -24,7 +24,13 @@
 17. Given an array, find maximum of all subarrays of size k - [MaximumOfSubarrayOfSizeK.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumOfSubarrayOfSizeK.java)
 18. Given an array of positive and negative numbers, find a subarray which has maximum product - [MaxProductSubarray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaxProductSubarray.java)
 19. Given an array of size n, the array contains numbers in range from 0 to k-1 where k is a positive integer and k <= n. Find the maximum repeating number in this array - [MaxRepeatingNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaxRepeatingNumber.java)
-20. 
+20. Given an array and two numbers, find minimum distance between these numbers. There could duplicates of these numbers in array - [MinimumDistanceBetweenTwoNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MinimumDistanceBetweenTwoNumbers.java)
+21. Find minimum length unsorted subarray, sorting which makes entire array sorted - [MinimumSortedWhichSortsEntireArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MinimumSortedWhichSortsEntireArray.java)
+22. Given array of 0 and non zero numbers, move all 0s to the end in O(n) time - [MoveAllZerosToEnd.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MoveAllZerosToEnd.java)
+23. Given an array, return a new array which has multiplication of all elements except own index - [MultiplyAllFieldsExceptOwnPosition.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MultiplyAllFieldsExceptOwnPosition.java)
+24. Given an unsorted array, find total number of triangles formed taking 3 elements of this array - [NumberOfTrianglesInUnsortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/NumberOfTrianglesInUnsortedArray.java)
+25. 
+
 
 ###Binary Trees###
 ####Special Tree####
