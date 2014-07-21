@@ -29,8 +29,10 @@
 22. Given array of 0 and non zero numbers, move all 0s to the end in O(n) time - [MoveAllZerosToEnd.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MoveAllZerosToEnd.java)
 23. Given an array, return a new array which has multiplication of all elements except own index - [MultiplyAllFieldsExceptOwnPosition.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MultiplyAllFieldsExceptOwnPosition.java)
 24. Given an unsorted array, find total number of triangles formed taking 3 elements of this array - [NumberOfTrianglesInUnsortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/NumberOfTrianglesInUnsortedArray.java)
-25. 
-
+25. Given an array with first negative and then positive numbers, position negative and positive numbers alternately - [PositiveAndNegativeNumberAlternatively.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/PositiveAndNegativeNumberAlternatively.java)
+26. Given an array arr[] of size n where every element is in range from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]] in O(n) time and O(1) space - [RearrangeSuchThatArriBecomesArrArri.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/RearrangeSuchThatArriBecomesArrArri.java)
+27. Given an array with elements in range of 0 to n-1, one number is repeated and one number is missing. Find both the numbers - [RepeatingAndMissingNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/RepeatingAndMissingNumber.java)
+28. 
 
 ###Binary Trees###
 ####Special Tree####
