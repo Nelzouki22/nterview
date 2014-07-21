@@ -13,6 +13,7 @@
 6. Given an array and a number k < n, find all elements occurring more than n by k times - [FindElementsOccurringNByKTimesTetris.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/FindElementsOccurringNByKTimesTetris.java)
 7. Given a list of gas stations and amount of fuel they have, find a tour which travels all gas stations - [GasStationCircle.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/GasStationCircle.java)
 8. Given an unordered array of positive integers, create an algorithm that makes sure no group of integers of size bigger than M have the same integers - [GroupElementsInSizeM.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/GroupElementsInSizeM.java)
+9. Given an array find an increasing subsequence of length 3 which has maximum product - [IncreasingSubsequnceOfLength3WithMaxProduct.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/IncreasingSubsequnceOfLength3WithMaxProduct.java)
 
 
 
