@@ -38,8 +38,15 @@
 31. Given a set of n integers, divide the set in two subsets of n/2 sizes each such that the difference of the sum of two subsets is as minimum as possible - **Conflict with DivideNumbersInEqualGroupWithClosestSum** - [TugOfWar.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TugOfWar.java)
 32. Given an unsorted array convert it into a < b > c < d > e < f > g fashion - [ConvertAnArrayIntoDecreaseIncreaseFashion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java)
 
-###Binary Trees###
-####Special Tree####
-###LinkList###
+###Binary Search###
 
-###
+1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
+2. Search an element in sorted array - [BinarySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/BinarySearch.java)
+3. Search an element in array which is first increasing then decreasing then increasing or other way round - [CircularBinarySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/CircularBinarySearch.java)
+4. Given a sorted array find total number of pairs whose difference is k - [CountNDistinctPairsWithDifferenceK.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/CountNDistinctPairsWithDifferenceK.java)
+5. Given a sorted array with duplicates, find first occurrence of a given element - [FirstOccurrenceOfNumberInSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/FirstOccurrenceOfNumberInSortedArray.java)
+6. Find floor and ceiling of given element in sorted array - [FloorAndCeilingSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/FloorAndCeilingSortedArray.java)
+7. Find median of two sorted array of same size - [MedianOfTwoSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MedianOfTwoSortedArray.java)
+8. Find a missing number in array of consecutive numbers - [MissingNumberInConsecutiveNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.java)
+9. Find a value of function in which this monotonically increasing function becomes positive - [MonotonicallyIncreasingFunctionBecomesPositive.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java)
+10. 
