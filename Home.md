@@ -49,4 +49,6 @@
 7. Find median of two sorted array of same size - [MedianOfTwoSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MedianOfTwoSortedArray.java)
 8. Find a missing number in array of consecutive numbers - [MissingNumberInConsecutiveNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.java)
 9. Find a value of function in which this monotonically increasing function becomes positive - [MonotonicallyIncreasingFunctionBecomesPositive.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java)
-10. 
+10. Find number of pairs where x^y > y^x - [NumberOfPairWithXPowerYGreaterThanYPowerX.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java)
+11. Given an array find an element which is larger than both its neighbors - [PeakElement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/PeakElement.java)
+12. 
