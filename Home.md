@@ -51,4 +51,4 @@
 9. Find a value of function in which this monotonically increasing function becomes positive - [MonotonicallyIncreasingFunctionBecomesPositive.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java)
 10. Find number of pairs where x^y > y^x - [NumberOfPairWithXPowerYGreaterThanYPowerX.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java)
 11. Given an array find an element which is larger than both its neighbors - [PeakElement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/PeakElement.java)
-12. 
+12. Given an array which is sorted and rotated find an element - [SortedAndRotatedArraySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/SortedAndRotatedArraySearch.java)
