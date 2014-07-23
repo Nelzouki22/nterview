@@ -53,3 +53,21 @@
 11. Given an array find an element which is larger than both its neighbors - [PeakElement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/PeakElement.java)
 12. Given an array which is sorted and rotated find an element - [SortedAndRotatedArraySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/SortedAndRotatedArraySearch.java)
 13. Minimum element in sorted and rotated array 
+
+###Bits###
+1. Add two number in binary representation - [AddTwoNumberInBinaryRepresentation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/AddTwoNumberInBinaryRepresentation.java)
+2. Given an integer and number k, right or left rotate bits in this integer by k - [BitRotation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/BitRotation.java)
+3. Using byte array for storing information - [ByteAsStorage.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/ByteAsStorage.java)
+4. Count number of set bits in an integer - [CountBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/CountBits.java)
+5. Given a screen in form of byte array with width and start and end points of a horizontal line. Draw this line [DrawHorizontalLine.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/DrawHorizontalLine.java)
+6. Given an array in which every number occurs 3 times find this one number occurring only once - [FindNumberOccurringOnceOtherNumbers3Times.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/FindNumberOccurringOnceOtherNumbers3Times.java)
+7. Given two numbers M and N, insert M into N from i to j bits of N - [InsertMintoNiTojBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/InsertMintoNiTojBits.java)
+8. Given an integer find next higher/lower integer with same number of set bits as original integer - [NextHigherAndNextLowerWithSameNumberBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NextHigherAndNextLowerWithSameNumberBits.java)
+9. Given an integer find next power of 2 greater than this integer - [NextPowerOf2.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NextPowerOf2.java)
+10. Given an array find two number occurring odd number of times - [NumberOccuringOddTimes.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NumberOccuringOddTimes.java)
+11. Given two numbers M and N, how many bit flips are required to convert M into N - [NumberOfBitsFlipToConvertNToM.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NumberOfBitsFlipToConvertNToM.java)
+12. Convert a real number(with decimals) into a binary number - [RealNumberToBinary.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/RealNumberToBinary.java)
+13. Given an integer reverse bits of this integer - [ReverseBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/ReverseBits.java)
+14. Given an integer swap its odd bits with even bits at every position - [SwapOddEvenBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/SwapOddEvenBits.java)
+15. Given an integer and two numbers i and j, swap bits at these positions in this integer - [SwapTwoBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/SwapTwoBits.java)
+16. Initially there is a number n. Two players start playing a game turn by turn. Each player has to replace the number n written on the board by n-2^k (for some k >= 0 such that 2^k < n) - [WinnerWithBeautifulNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/WinnerWithBeautifulNumber.java)
