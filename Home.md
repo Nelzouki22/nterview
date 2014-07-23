@@ -64,7 +64,7 @@
 7. Given two numbers M and N, insert M into N from i to j bits of N - [InsertMintoNiTojBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/InsertMintoNiTojBits.java)
 8. Given an integer find next higher/lower integer with same number of set bits as original integer - [NextHigherAndNextLowerWithSameNumberBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NextHigherAndNextLowerWithSameNumberBits.java)
 9. Given an integer find next power of 2 greater than this integer - [NextPowerOf2.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NextPowerOf2.java)
-10. Given an array find two number occurring odd number of times - [NumberOccuringOddTimes.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NumberOccuringOddTimes.java)
+10. Given an array find one/two number occurring odd number of times - [NumberOccuringOddTimes.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NumberOccuringOddTimes.java)
 11. Given two numbers M and N, how many bit flips are required to convert M into N - [NumberOfBitsFlipToConvertNToM.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/NumberOfBitsFlipToConvertNToM.java)
 12. Convert a real number(with decimals) into a binary number - [RealNumberToBinary.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/RealNumberToBinary.java)
 13. Given an integer reverse bits of this integer - [ReverseBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/ReverseBits.java)
