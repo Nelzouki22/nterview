@@ -129,4 +129,9 @@ surrounded by Xs.
 14. Given a 2D matrix of Xs and Os, convert all Os to Xs if it is surrounded by Xs - [FillOsWIthXsIfSurroundedByXs.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/FillOsWIthXsIfSurroundedByXs.java)
 15. Flood fill algorithm - [FloodFillAlgorithm.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/FloodFillAlgorithm.java)
 16. All pair shortest path using flyod warshall algorithm - [FloydWarshallAllPairShortestPath.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/FloydWarshallAllPairShortestPath.java)
-17. 
+17. Given a directed graph with source and end point, find maximum flow from source to end - [FordFulkerson.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/FordFulkerson.java)
+18. Graph basic data structure - [Graph.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/Graph.java)
+19. Given a graph, color each vertex such that neighboring vertex does not have same color - [GraphColoring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/GraphColoring.java)
+20. BSF and DFS graph traversal - [GraphTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/GraphTraversal.java)
+21. Given a graph, find hamiltonian cycle in the graph if it exists. Hamiltonian cycle in undirected graph starts and ends at same point and traverses each vertex exactly once - [HamiltonianCycle.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/HamiltonianCycle.java)
+22. 
