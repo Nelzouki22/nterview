@@ -112,7 +112,7 @@ surrounded by Xs.
 34. Given three strings, determine if first two strings can interleave to form third string - [TwoStringInterleavingToFormThird.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/TwoStringInterleavingToFormThird.java)
 35. Given a number n, find all numbers from 1 to n which are multiples of 2,3 or 5 only. [UglyNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/UglyNumbers.java)
 
-###Articulation Points###
+###Graph###
 1. A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. [ArticulationPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java)
 2. Find shortest path from one vertex to all vertex using bellman ford algorithm - [BellmanFordShortestPath.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/BellmanFordShortestPath.java)
 3. Binary max heap - [BinaryMaxHeap.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/BinaryMaxHeap.java)
