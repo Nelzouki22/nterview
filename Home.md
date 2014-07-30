@@ -118,6 +118,7 @@ surrounded by Xs.
 3. Binary max heap - [BinaryMaxHeap.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/BinaryMaxHeap.java)
 4. Binary min heap - [BinaryMinHeap.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/BinaryMinHeap.java)
 5. A Bipartite Graph is a graph whose vertices can be divided into two independent sets, U and V such that every edge (u, v) either connects a vertex from U to V or a vertex from V to U - [BiparteGraph.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/BiparteGraph.java)
+6. Design a game of boggle - [Boggle.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/Boggle.java)
 6. An edge in an undirected connected graph is a bridge iff removing it disconnects the graph. Given a graph find all bridges in this graph - [Bridge.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/Bridge.java)
 7. Given two words of equal length convert first word to second word in such a way that all intermediate words are in dictionary - [ConvertOneWordToAnother.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ConvertOneWordToAnother.java)
 8. Find cycle in directed graph - [CycleInDirectedGraph.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/CycleInDirectedGraph.java)
