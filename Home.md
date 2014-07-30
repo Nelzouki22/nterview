@@ -107,8 +107,7 @@
 30. Remove minimum number of elements from either end of array such that 2*min > max in this remaining elements of array - [RemoveFromEndToMake2IntoMinGreaterThanMax.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/RemoveFromEndToMake2IntoMinGreaterThanMax.java)
 31. Given a matrix, find a rectangular submatrix with maximum sum - [SubArrayWithMaximumSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/SubArrayWithMaximumSum.java)
 32. Given an array and a total. Tell if elements of this array can form this total - [SubsetSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/SubsetSum.java)
-33. Given an array of X and Os. Find largest subsquare which is[SubsquareSurrounedByXs.java]surrounded by Xs - (https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/SubsquareSurrounedByXs.java) 
-
+33. Given an array of X and Os. Find largest subsquare which is surrounded by Xs - [SubsquareSurrounedByXs.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/SubsquareSurrounedByXs.java) 
 34. Given three strings, determine if first two strings can interleave to form third string - [TwoStringInterleavingToFormThird.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/TwoStringInterleavingToFormThird.java)
 35. Given a number n, find all numbers from 1 to n which are multiples of 2,3 or 5 only. [UglyNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/UglyNumbers.java)
 
