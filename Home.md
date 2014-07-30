@@ -144,3 +144,10 @@
 29. Given a directed graph, find strongly connected components of the graph - [StronglyConnectedComponent.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/StronglyConnectedComponent.java)
 30. Given a directed acyclic graph, sort is topologically - [TopologicalSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TopologicalSort.java)
 31. Given a directed graph, find out if a vertex j is reachable from another vertex i for all vertex pairs (i, j) in the given graph - [TransitiveClosure.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TransitiveClosure.java)
+
+###LinkList###
+1. Add two numbers represented by link list - [AddNumberRepresentedByLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/AddNumberRepresentedByLinkList.java)
+2. Create a copy of a link list in which one pointer points to next node while other pointer can point to any node in the list - [CopyLinkListWIthArbitPointer.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/CopyLinkListWIthArbitPointer.java)
+3. Given a linklist, delete m nodes after every n nodes - [DeleteNAfterMNodes.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/DeleteNAfterMNodes.java)
+4. Delete nodes which has greater value on right side - [DeleteNodeWithGreaterValueOnRight.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/DeleteNodeWithGreaterValueOnRight.java)
+5. Given a linklist in which down pointer could point to another linklist and this happens recursively, flatten this linklist - [FlattenLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/FlattenLinkList.java)
