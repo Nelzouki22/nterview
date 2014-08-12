@@ -166,3 +166,14 @@
 17. Given a sorted linklist, convert it into a balanced binary search tree - [SortedLLToBalancedBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/SortedLLToBalancedBST.java)
 18. Stack with also support find/delete middle operation - [StackWithLinkListMiddleOperation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/StackWithLinkListMiddleOperation.java)
 19. Given three linklist and a sum, find a triplet from each list which adds up to sum - [TripletToSumInLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/TripletToSumInLinkList.java)
+
+###Multi Array###
+1. Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 (or true) then make all the cells of ith row and jth column as 1 - [Fill2DMatrixWith1.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/Fill2DMatrixWith1.java)
+2. Design game of life - [GameOfLife.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/GameOfLife.java)
+3. Find the length of the longest chain of consecutive integers in an unsorted 2D square array (non-diagonal) - [LongestConsecutiveIntegerInUnsorted2DArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/LongestConsecutiveIntegerInUnsorted2DArray.java)
+4. Given a 2D array, create a new 2D array which joins first row elements with every other element from second row onwards - [MatrixCalculation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixCalculation.java)
+5. Given a 2D array, find sum of all rectangular and square sub matrix - [MatrixFindAllSubSquareRectangleMatrix.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixFindAllSubSquareRectangleMatrix.java)
+6. Print a 2D array in diagonal format - [MatrixInDiagonalOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixInDiagonalOrder.java)
+7. Create a 2D array of alternating Xs and 0s rectangles - [MatrixOf0sAnd1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixOf0sAnd1s.java)
+8. Move in 2D array as per cell value - [MoveCellPerCellValue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MoveCellPerCellValue.java)
+9. Turn image by 90 degree - [TurnImageBy90.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/TurnImageBy90.java)
