@@ -169,6 +169,7 @@
 20. Insertion sort for link list - [InsertionSortLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/InsertionSortLinkList.java)
 21. Double link list - [DoubleLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/DoubleLinkList.java)
 22. Given two nodes of double link list swap them - [SwapTwoNodesInDoubleLL.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/SwapTwoNodesInDoubleLL.java)
+23. Given a linklist, return true if elements form a palindrome or not - [LinkListIsPalindrome.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/LinkListIsPalindrome.java)
 
 ###Multi Array###
 1. Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 (or true) then make all the cells of ith row and jth column as 1 - [Fill2DMatrixWith1.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/Fill2DMatrixWith1.java)
