@@ -177,3 +177,18 @@
 7. Create a 2D array of alternating Xs and 0s rectangles - [MatrixOf0sAnd1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixOf0sAnd1s.java)
 8. Move in 2D array as per cell value - [MoveCellPerCellValue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MoveCellPerCellValue.java)
 9. Turn image by 90 degree - [TurnImageBy90.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/TurnImageBy90.java)
+
+###Numbers###
+1. Given a large number tell where it is an aggregate number or not - [AggregateNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/AggregateNumber.java)
+2. Given an array of numbers, tell if there are 3 numbers which form arithmetic progression - [ArithemeticProgressionExists.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArithemeticProgressionExists.java)
+3. Given a series of numbers as the input, the last one as the result.Use the rest numbers to calculate the result,only +, -, *, / are allowed - [ArithmeticOperatorForFinalResult.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArithmeticOperatorForFinalResult.java)
+4. Given two numbers in form of an array, multiply them - [ArrayMultiplication.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArrayMultiplication.java)
+5. Given a number n and k, find binomial coefficient of n to k - [BinomialCoefficient.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/BinomialCoefficient.java)
+6. Covert a decimal number into any other base N < 10 - [ConvertToBaseN.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ConvertToBaseN.java)
+7. Given a number n, find counts of 2 from 1 to n - [CountNoOf2s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/CountNoOf2s.java)
+8. Given a number n, find number of numbers which does not have digit 4 in them - [CountNumbersNotIncluding4.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/CountNumbersNotIncluding4.java)
+9. Given a dividend and a divisor, return remainder and quotient - [DivisionWithoutDivisionOperator.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/DivisionWithoutDivisionOperator.java)
+10. Given two numbers find their GCD(greatest common divisor) - [EuclideanAlgoForGCD.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/EuclideanAlgoForGCD.java)
+11. Given an array of numbers, generate a signature where D represent decrease and I represents increase. Now given Ds and Is generate pattern of number - [GenerateSignature.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/GenerateSignature.java)
+12. Given an array, find elements combining which forms largest multiple of 3 - ![https://github.com/mission-peace/interview/blob/master/src/com/interview/number/LargestMultipleOf3inArray.java](LargestMultipleOf3inArray.java)
+13. Given a number n, tell if this number is a lucky number - [LuckyNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/LuckyNumbers.java)
