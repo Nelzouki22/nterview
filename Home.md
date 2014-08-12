@@ -203,4 +203,4 @@
 22. Russian peasant multiplication - [RussianPeasantMultiplication.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/RussianPeasantMultiplication.java)
 23. Smallest number greater than given number but all digits in increasing order - [SmallestNumberGreaterThanGiveNumberIncreasingSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.java)
 24. Calculate square root of a number without using any library - [SquareRoot.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/SquareRoot.java)
-25. Given a positive integer n, generate all possible unique ways to represent n as sum of positive integers - ![https://github.com/mission-peace/interview/blob/master/src/com/interview/number/UniquePartitionOfInteger.java](UniquePartitionOfInteger.java)
+25. Given a positive integer n, generate all possible unique ways to represent n as sum of positive integers -[https://github.com/mission-peace/interview/blob/master/src/com/interview/number/UniquePartitionOfInteger.java](UniquePartitionOfInteger.java)
