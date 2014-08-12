@@ -167,7 +167,7 @@
 18. Stack with also support find/delete middle operation - [StackWithLinkListMiddleOperation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/StackWithLinkListMiddleOperation.java)
 19. Given three linklist and a sum, find a triplet from each list which adds up to sum - [TripletToSumInLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/TripletToSumInLinkList.java)
 20. Insertion sort for link list - [InsertionSortLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/InsertionSortLinkList.java)
-
+21. Double link list - [DoubleLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/DoubleLinkList.java)
 ###Multi Array###
 1. Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 (or true) then make all the cells of ith row and jth column as 1 - [Fill2DMatrixWith1.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/Fill2DMatrixWith1.java)
 2. Design game of life - [GameOfLife.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/GameOfLife.java)
