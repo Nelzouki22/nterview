@@ -180,7 +180,7 @@
 
 ###Numbers###
 1. Given a large number tell where it is an aggregate number or not - [AggregateNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/AggregateNumber.java)
-2. Given an array of numbers, tell if there are 3 numbers which form arithmetic progression - [ArithemeticProgressionExists.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArithemeticProgressionExists.java)
+2. Given an array of sorted numbers, tell if there are 3 numbers which form arithmetic progression - [ArithemeticProgressionExists.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArithemeticProgressionExists.java)
 3. Given a series of numbers as the input, the last one as the result.Use the rest numbers to calculate the result,only +, -, *, / are allowed - [ArithmeticOperatorForFinalResult.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArithmeticOperatorForFinalResult.java)
 4. Given two numbers in form of an array, multiply them - [ArrayMultiplication.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArrayMultiplication.java)
 5. Given a number n and k, find binomial coefficient of n to k - [BinomialCoefficient.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/BinomialCoefficient.java)
