@@ -209,3 +209,15 @@
 23. Smallest number greater than given number but all digits in increasing order - [SmallestNumberGreaterThanGiveNumberIncreasingSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.java)
 24. Calculate square root of a number without using any library - [SquareRoot.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/SquareRoot.java)
 25. Given a positive integer n, generate all possible unique ways to represent n as sum of positive integers -[https://github.com/mission-peace/interview/blob/master/src/com/interview/number/UniquePartitionOfInteger.java](UniquePartitionOfInteger.java)
+
+###Tree###
+1. Self balancing tree AVL tree - [AVLTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/AVLTree.java)
+2.  Given an arbitrary binary tree, convert it to a binary tree that holds Children Sum Property. You can only increment data values in any node - [ArbitaryTreeToChildSumTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ArbitaryTreeToChildSumTree.java)
+3. Given Preorder traversal of a BST, check if each non-leaf node has only one child. Assume that the BST contains unique entries - [BSTOneChildPreOrderTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BSTOneChildPreOrderTraversal.java)
+4. Btree implementation - [BTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BTree.java)
+5. Binary tree operations - [BinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTree.java)
+6. Convert a binary tree to circular link list - [BinaryTreeToCircularLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToCircularLinkList.java)
+7. Write a function to connect all the adjacent nodes at the same level in a binary tree - [ConnectNodesAtSameLevel.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConnectNodesAtSameLevel.java)
+8. Given two arrays that represent preorder and postorder traversals of a full binary tree, construct the binary tree - [ConstructFullTreeFromPreOrderPostOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructFullTreeFromPreOrderPostOrder.java)
+9. Construct tree from preorder and inorder traversal - [ConstructTreeFromInOrderPreOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructTreeFromInOrderPreOrder.java)
+10. Given inorder and level-order traversals of a Binary Tree, construct the Binary Tree - [ConstructTreeFromLevelOrderInOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructTreeFromLevelOrderInOrder.java)
