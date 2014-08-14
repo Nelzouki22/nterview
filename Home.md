@@ -249,4 +249,9 @@
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
-2. 
+2. Cycle leader iteration - [CycleLeaderIteration.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/CycleLeaderIteration.java)
+3. Given alternate digits and numbers, move them so that all digits are on one side and numbers on other side - [InPlaceTransformationOfString.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/InPlaceTransformationOfString.java)
+4. Lexicographic rank of a string - [LexicographicRankInPermutation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LexicographicRankInPermutation.java)
+5. Given a string, find longest palindromic substring in this string - [LongPanlindromeSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongPanlindromeSubstring.java)
+6. Given a string find longest substring without repetition of characters - [LongestSubstringWithoutRepetingCharacter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongestSubstringWithoutRepetingCharacter.java)
+7. 
