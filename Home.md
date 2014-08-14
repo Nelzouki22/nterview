@@ -281,3 +281,4 @@
 14. Print array in tree fashion - [PrintArrayInCustomizedFormat.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintArrayInCustomizedFormat.java)
 15. Permutation of string in both sorted and unsorted order - [PrintPermInSortedOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintPermInSortedOrder.java) [StringPermutationRotation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/StringPermutationRotation.java)
 16. Given two strings, generate all interleavings of these strings - [StringInterleaving.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/StringInterleaving.java)
+17. Combination with repetition of characters allowed - [CombinationWithReptition.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/CombinationWithReptition.java)
