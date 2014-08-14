@@ -254,4 +254,6 @@
 4. Lexicographic rank of a string - [LexicographicRankInPermutation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LexicographicRankInPermutation.java)
 5. Given a string, find longest palindromic substring in this string - [LongPanlindromeSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongPanlindromeSubstring.java)
 6. Given a string find longest substring without repetition of characters - [LongestSubstringWithoutRepetingCharacter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongestSubstringWithoutRepetingCharacter.java)
-7. 
+7. Given an input string S write a function which returns true if it satisfies S = nT - [NTMatch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/NTMatch.java)
+8. Given list of strings, print them in groups if they are anagrams of each other - [PrintAnagramTogether.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/PrintAnagramTogether.java)
+9. Rabin karp substring search - 
