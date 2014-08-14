@@ -256,4 +256,10 @@
 6. Given a string find longest substring without repetition of characters - [LongestSubstringWithoutRepetingCharacter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongestSubstringWithoutRepetingCharacter.java)
 7. Given an input string S write a function which returns true if it satisfies S = nT - [NTMatch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/NTMatch.java)
 8. Given list of strings, print them in groups if they are anagrams of each other - [PrintAnagramTogether.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/PrintAnagramTogether.java)
-9. Rabin karp substring search - 
+9. Rabin karp substring search - [RabinKarpSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/RabinKarpSearch.java)
+10. Given a string, rearrange characters in string so that characters are at least d distance away from repeated characters - [RearrangeDuplicateCharsdDistanceAway.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/RearrangeDuplicateCharsdDistanceAway.java)
+11. Regex matching - [RegexMatching.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/RegexMatching.java)
+12. Run length encoding - [RunLengthEncoding.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/RunLengthEncoding.java)
+13. Given two strings, find smallest window in first string which contains all characters of second string - [SmallestWindowContaingAllCharacters.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/SmallestWindowContaingAllCharacters.java)
+14. KMP substring search - [SubstringSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/SubstringSearch.java)
+15. Wild card searching - [WildCardSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/WildCardSearch.java)
