@@ -243,3 +243,4 @@
 30. Given a binary tree, print it vertically - [VerticalTreePrinting.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/VerticalTreePrinting.java)
 31. Given a Binary Search Tree (BST), modify it so that all greater values in the given BST are added to every node - [AddGreaterValueNodeToEveryNode.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/AddGreaterValueNodeToEveryNode.java)
 32. Print all nodes with no sibling - [NodesWithNoSibling.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/NodesWithNoSibling.java)
+33. Boundary traversal of binary tree - [BoundaryTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BoundaryTraversal.java)
