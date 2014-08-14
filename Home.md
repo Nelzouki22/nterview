@@ -37,6 +37,7 @@
 30. Given an array, find triplet which sums to a given value - https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TripletInArray.java
 31. Given a set of n integers, divide the set in two subsets of n/2 sizes each such that the difference of the sum of two subsets is as minimum as possible - **Conflict with DivideNumbersInEqualGroupWithClosestSum** - [TugOfWar.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TugOfWar.java)
 32. Given an unsorted array convert it into a < b > c < d > e < f > g fashion - [ConvertAnArrayIntoDecreaseIncreaseFashion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java)
+33. Given multiple sorted lists, sort them into one list - [ChunkMerge.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ChunkMerge.java)
 
 ###Binary Search###
 
@@ -245,3 +246,7 @@
 32. Print all nodes with no sibling - [NodesWithNoSibling.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/NodesWithNoSibling.java)
 33. Boundary traversal of binary tree - [BoundaryTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BoundaryTraversal.java)
 34. Convert a binary tree into double link list - [BinaryTreeToDoubleLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToDoubleLinkList.java)
+
+###String###
+1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
+2. 
