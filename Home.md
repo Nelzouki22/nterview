@@ -246,6 +246,7 @@
 32. Print all nodes with no sibling - [NodesWithNoSibling.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/NodesWithNoSibling.java)
 33. Boundary traversal of binary tree - [BoundaryTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BoundaryTraversal.java)
 34. Convert a binary tree into double link list - [BinaryTreeToDoubleLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToDoubleLinkList.java)
+35. Given a binary tree, tell if it is a complete tree or not. [IsCompleteBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IsCompleteBinaryTree.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
