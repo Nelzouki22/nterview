@@ -249,6 +249,7 @@
 34. Convert a binary tree into double link list - [BinaryTreeToDoubleLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToDoubleLinkList.java)
 35. Given a binary tree, tell if it is a complete tree or not. [IsCompleteBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IsCompleteBinaryTree.java)
 36. Given a preorder traversal of a tree with 0 or 2 children and char array where L stands for leaf node and N stands for inner node, create binary tree from it - [TreeFromPreOrderTraversalWith0or2Child.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeFromPreOrderTraversalWith0or2Child.java)
+37. Convert a binary tree(not BST) to a sorted link list - [BinaryTreeToSortedLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToSortedLinkList.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
