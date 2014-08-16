@@ -251,6 +251,7 @@
 36. Given a preorder traversal of a tree with 0 or 2 children and char array where L stands for leaf node and N stands for inner node, create binary tree from it - [ConstructTreeFromPreOrderTraversalWith0or2Child.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.java)
 37. Convert a binary tree(not BST) to a sorted link list - [BinaryTreeToSortedLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToSortedLinkList.java)
 38. Given an inorder traversal of tree where each node is greater than its child nodes, create binary tree - [ContructTreeFromInOrderTraversalRootGreaterThanChild.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.java)
+39. Given two nodes value find lowest common ancestor of these two nodes - [LowestCommonAncestorInBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LowestCommonAncestorInBinaryTree.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
