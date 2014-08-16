@@ -294,3 +294,9 @@
 1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
 2. A ternary search tree is a special trie data structure where the child nodes of a standard trie are ordered as a binary search tree. Write a program to insert and search in ternary tree - [TernaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/TernaryTree.java)
 3. Write a program to insert,search and delete in trie - [Trie.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/Trie.java)
+
+###Randomization###
+1. Given a method to generate random number between 1 to 5, create a new method to generate random number between 1 to 7 - [Rand7UsingRand5.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/Rand7UsingRand5.java)
+2. Given a list of countries with population, how do you select random country from this list. Higher the population higher the probability of selection - [RandomCountrySelectionByPopluation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/RandomCountrySelectionByPopluation.java)
+3. Reservior sampling algorithm. In stream of numbers select k random numbers - [SelectMRandomNumbersInStream.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/SelectMRandomNumbersInStream.java)
+4. Given an array shuffle it - [ShuffleArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/ShuffleArray.java)
