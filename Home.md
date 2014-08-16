@@ -289,3 +289,8 @@
 15. Permutation of string in both sorted and unsorted order - [PrintPermInSortedOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintPermInSortedOrder.java) [StringPermutationRotation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/StringPermutationRotation.java)
 16. Given two strings, generate all interleavings of these strings - [StringInterleaving.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/StringInterleaving.java)
 17. Combination with repetition of characters allowed - [CombinationWithReptition.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/CombinationWithReptition.java)
+
+###Suffix/Prefix Tree###
+1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
+2. A ternary search tree is a special trie data structure where the child nodes of a standard trie are ordered as a binary search tree. Write a program to insert and search in ternary tree - [TernaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/TernaryTree.java)
+3. Write a program to insert,search and delete in trie - [Trie.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/Trie.java)
