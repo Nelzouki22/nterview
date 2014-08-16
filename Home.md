@@ -309,4 +309,7 @@
 5. Given a floating point number in string, convert it into actual float number - [FloatPointConversion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/FloatPointConversion.java)
 6. Given an array, find hamming distance between each pair of numbers in the array - [HammingDistanceBetweenPair.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/HammingDistanceBetweenPair.java)
 7. Given horizons of building in form of height and start end point, merge them into single horizon - [HorizonMapping.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/HorizonMapping.java)
-8. 
+8. kth largest element in row wise and column wise sorted 2D array - [KthLargestInRowiseColumnWiseSorted2DArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/KthLargestInRowiseColumnWiseSorted2DArray.java)
+9. Design a load balancer where you can add,remove and find random server in O(1) time - [LoadBalancers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/LoadBalancers.java)
+10. Given an integer, return a string which represents this integer in words - [NumberToWord.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/NumberToWord.java)
+11. Convert a roman number into decimal number and vice versa - [RomanNumberToDecimal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/RomanNumberToDecimal.java)
