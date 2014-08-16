@@ -308,6 +308,11 @@
 6. Sort an array in range of 0 to N^3(or 0 to N^2) - [Sort0toN3.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/Sort0toN3.java)
 7. Sort an array by frequency of number in that array - [SortArrayByFrequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/SortArrayByFrequence.java)
 
+###Multithreading###
+1. Consumer producer problem with one consumer and one producer - [ConsumerProducerProblem.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ConsumerProducerProblem.java)
+2. Executor service example - [ThreadPoolExample.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ThreadPoolExample.java)
+3. Thread pool implementation - [ThreadPoolImpl.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ThreadPoolImpl.java)
+
 ###Regex###
 1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
 
