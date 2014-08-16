@@ -299,6 +299,15 @@
 2. A ternary search tree is a special trie data structure where the child nodes of a standard trie are ordered as a binary search tree. Write a program to insert and search in ternary tree - [TernaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/TernaryTree.java)
 3. Write a program to insert,search and delete in trie - [Trie.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/Trie.java)
 
+###Sorting###
+1. Counting sort - [CountingSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/CountingSort.java)
+2. Iterative quick sort - [IterativeQuickSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/IterativeQuickSort.java)
+3. Pancake sorting - [PanCakeSorting.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/PanCakeSorting.java)
+4. Quick sort - [QuickSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/QuickSort.java)
+5. Radix sort - [RadixSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/RadixSort.java)
+6. Sort an array in range of 0 to N^3(or 0 to N^2) - [Sort0toN3.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/Sort0toN3.java)
+7. Sort an array by frequency of number in that array - [SortArrayByFrequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/SortArrayByFrequence.java)
+
 ###Randomization###
 1. Given a method to generate random number between 1 to 5, create a new method to generate random number between 1 to 7 - [Rand7UsingRand5.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/Rand7UsingRand5.java)
 2. Given a list of countries with population, how do you select random country from this list. Higher the population higher the probability of selection - [RandomCountrySelectionByPopluation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/RandomCountrySelectionByPopluation.java)
