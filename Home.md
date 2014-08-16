@@ -234,7 +234,7 @@
 19. Create an iterator to traverse a binary tree. When the next function is called on the binary tree return the value at the next node as if you are doing an inorder traversal of the tree - [NextInorderSuccessorIterator.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/NextInorderSuccessorIterator.java)
 20. Given a binary tree and a number k, print nodes at distance k from given node - [NodesAtDistanceK.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/NodesAtDistanceK.java)
 21. Populate inorder successor for all nodes - [PopulateInOrderSuccessor.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/PopulateInOrderSuccessor.java)
-22. Given preorder traversal of a binary search tree, construct the BST - [PreOrderArrayToBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/PreOrderArrayToBST.java)
+22. Given preorder traversal of a binary search tree, construct the BST - [ConstructBSTFromPreOrderArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructBSTFromPreOrderArray.java)
 23. Print two BST in sorted form - [PrintTwoBSTInSortedForm.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/PrintTwoBSTInSortedForm.java)
 24. Given a binary tree and a number, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals the given number - [RootToLeafToSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/RootToLeafToSum.java)
 25. Range query segment tree - [SegmentTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SegmentTree.java)
@@ -248,8 +248,9 @@
 33. Boundary traversal of binary tree - [BoundaryTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BoundaryTraversal.java)
 34. Convert a binary tree into double link list - [BinaryTreeToDoubleLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToDoubleLinkList.java)
 35. Given a binary tree, tell if it is a complete tree or not. [IsCompleteBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IsCompleteBinaryTree.java)
-36. Given a preorder traversal of a tree with 0 or 2 children and char array where L stands for leaf node and N stands for inner node, create binary tree from it - [TreeFromPreOrderTraversalWith0or2Child.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeFromPreOrderTraversalWith0or2Child.java)
+36. Given a preorder traversal of a tree with 0 or 2 children and char array where L stands for leaf node and N stands for inner node, create binary tree from it - [ConstructTreeFromPreOrderTraversalWith0or2Child.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.java)
 37. Convert a binary tree(not BST) to a sorted link list - [BinaryTreeToSortedLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeToSortedLinkList.java)
+38. Given an inorder traversal of tree where each node is greater than its child nodes, create binary tree - [ContructTreeFromInOrderTraversalRootGreaterThanChild.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
