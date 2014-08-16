@@ -300,3 +300,13 @@
 2. Given a list of countries with population, how do you select random country from this list. Higher the population higher the probability of selection - [RandomCountrySelectionByPopluation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/RandomCountrySelectionByPopluation.java)
 3. Reservior sampling algorithm. In stream of numbers select k random numbers - [SelectMRandomNumbersInStream.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/SelectMRandomNumbersInStream.java)
 4. Given an array shuffle it - [ShuffleArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/ShuffleArray.java)
+
+###Misc###
+1. Given two sets of intervals. Ranges in the same set do not overlap each other. Merge these sets - [AddingTwoSetOfIntervals.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/AddingTwoSetOfIntervals.java)
+2. Given a time(hour and min), find angle between hour and min hand - [AngleBetweenHourAndMinuteHand.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/AngleBetweenHourAndMinuteHand.java)
+3. Given an excel sheet kind of numbering, convert it into decimal and vice versa - [ConvertNumberIntoBase26.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/ConvertNumberIntoBase26.java)
+4. Given two dates in AD, find number of days between these 2 dates - [DayDifferenceBetweenTwoDates.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/DayDifferenceBetweenTwoDates.java)
+5. Given a floating point number in string, convert it into actual float number - [FloatPointConversion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/FloatPointConversion.java)
+6. Given an array, find hamming distance between each pair of numbers in the array - [HammingDistanceBetweenPair.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/HammingDistanceBetweenPair.java)
+7. Given horizons of building in form of height and start end point, merge them into single horizon - [HorizonMapping.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/HorizonMapping.java)
+8. 
