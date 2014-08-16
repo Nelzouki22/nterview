@@ -308,6 +308,9 @@
 6. Sort an array in range of 0 to N^3(or 0 to N^2) - [Sort0toN3.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/Sort0toN3.java)
 7. Sort an array by frequency of number in that array - [SortArrayByFrequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/SortArrayByFrequence.java)
 
+###Regex###
+1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
+
 ###Randomization###
 1. Given a method to generate random number between 1 to 5, create a new method to generate random number between 1 to 7 - [Rand7UsingRand5.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/Rand7UsingRand5.java)
 2. Given a list of countries with population, how do you select random country from this list. Higher the population higher the probability of selection - [RandomCountrySelectionByPopluation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/RandomCountrySelectionByPopluation.java)
