@@ -313,6 +313,7 @@
 1. Consumer producer problem with one consumer and one producer - [ConsumerProducerProblem.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ConsumerProducerProblem.java)
 2. Executor service example - [ThreadPoolExample.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ThreadPoolExample.java)
 3. Thread pool implementation - [ThreadPoolImpl.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ThreadPoolImpl.java)
+4. Given a queue which gets millions of messages. Message is of form <Domain,Update>.You have 10000 domain tables. Also you have 50 worker threads. You can only get data from front of the queue. Threads get data from the front and then update the domain table - [SingleQueueDomainTableUpdate.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/SingleQueueDomainTableUpdate.java)
 
 ###Regex###
 1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
