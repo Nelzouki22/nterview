@@ -38,7 +38,7 @@
 31. Given a set of n integers, divide the set in two subsets of n/2 sizes each such that the difference of the sum of two subsets is as minimum as possible - **Conflict with DivideNumbersInEqualGroupWithClosestSum** - [TugOfWar.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TugOfWar.java)
 32. Given an unsorted array convert it into a < b > c < d > e < f > g fashion - [ConvertAnArrayIntoDecreaseIncreaseFashion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java)
 33. Given multiple sorted lists, sort them into one list - [ChunkMerge.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ChunkMerge.java)
-
+34. Given an array which represents bars how much rain water will be trapped - [TrappingWater.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TrappingWater.java)
 ###Binary Search###
 
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
