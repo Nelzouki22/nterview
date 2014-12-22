@@ -1,7 +1,7 @@
 ## Interview Questions##
 
 ###Simple Paxos implementation###
-https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java
+Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
 
 ###Arrays###
 
