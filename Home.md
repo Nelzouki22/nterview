@@ -330,6 +330,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 
 ###Geometry###
 1. Given points with x and y coordinates. Find distance between closest pair of points among the given points. [ClosestPairOfPoints.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/ClosestPairOfPoints.java)
+
 ###Misc###
 1. Given two sets of intervals. Ranges in the same set do not overlap each other. Merge these sets - [AddingTwoSetOfIntervals.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/AddingTwoSetOfIntervals.java)
 2. Given a time(hour and min), find angle between hour and min hand - [AngleBetweenHourAndMinuteHand.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/AngleBetweenHourAndMinuteHand.java)
