@@ -180,6 +180,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 26. Given a linklist, find middle element of the linklist - [MiddleElementOfLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/MiddleElementOfLinkList.java)
 27. Shuffle merge linklist - [ShuffleMerge.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/ShuffleMerge.java)
 28. Given a linked list of co-ordinates where adjacent points either form a vertical line or a horizontal line. Delete points from the linked list which are in the middle of a horizontal or vertical line.[RemoveMiddleElementsOfLineSegment.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/RemoveMiddleElementsOfLineSegment.java)
+29. Find if there is a loop in linklist [LoopInLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/LoopInLinkList.java)
 
 ###Multi Array###
 1. Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 (or true) then make all the cells of ith row and jth column as 1 - [Fill2DMatrixWith1.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/Fill2DMatrixWith1.java)
