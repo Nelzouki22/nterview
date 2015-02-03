@@ -157,7 +157,6 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 3. Given a linklist, delete m nodes after every n nodes - [DeleteNAfterMNodes.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/DeleteNAfterMNodes.java)
 4. Delete nodes which has greater value on right side - [DeleteNodeWithGreaterValueOnRight.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/DeleteNodeWithGreaterValueOnRight.java)
 5. Given a linklist in which down pointer could point to another linklist and this happens recursively, flatten this linklist - [FlattenLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/FlattenLinkList.java)
-6. Given two linklist, insert nodes of second list into first list at alternate position - [InsertNodesAtAlternatePosition.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/InsertNodesAtAlternatePosition.java)
 7. Implement a LRU cache using linklist and map - [LRUCache.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/LRUCache.java)
 8. Basic link list structure - [LinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/LinkList.java)
 9. Sort linklist using merge sort - [MergeSortLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/MergeSortLinkList.java)
