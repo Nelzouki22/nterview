@@ -348,3 +348,4 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 10. Given an integer, return a string which represents this integer in words - [NumberToWord.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/NumberToWord.java)
 11. Convert a roman number into decimal number and vice versa - [RomanNumberToDecimal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/RomanNumberToDecimal.java)
 12. Given cordinates of four points, say if they will form a square or not - [FourPointsFormSquare.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/FourPointsFormSquare.java)
+13. Given two times in 4 digit number, find difference between them - [DifferenceBetweenTwoTime.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/DifferenceBetweenTwoTime.java)
