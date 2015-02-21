@@ -74,6 +74,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 14. Given an integer swap its odd bits with even bits at every position - [SwapOddEvenBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/SwapOddEvenBits.java)
 15. Given an integer and two numbers i and j, swap bits at these positions in this integer - [SwapTwoBits.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/SwapTwoBits.java)
 16. Initially there is a number n. Two players start playing a game turn by turn. Each player has to replace the number n written on the board by n-2^k (for some k >= 0 such that 2^k < n) - [WinnerWithBeautifulNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/WinnerWithBeautifulNumber.java)
+17. Square of a number without using * or ^ operator - [SquareOfNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/SquareOfNumber.java)
 
 ###Dynamic Programming###
 1. Given a sequence of words, and a limit on the number of characters that can be put in one line (line width). Put line breaks in the given sequence such that the lines are printed neatly. [AdjustWordsInLine.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/AdjustWordsInLine.java)
