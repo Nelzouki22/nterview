@@ -82,7 +82,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 2. Find longest bitonic subsequence in an array. Bitonic subsequence first increases and then decreases - [BitonicSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BitonicSequence.java)
 3. Given a long word which is made up of multiple words, split the long word into individual words - [BreakMultipleWordsWithNoSpaceIntoSpace.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java)
 4. Coin changing problem. Given set of coins and a total t. - [CoinChanging.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CoinChanging.java)
-  * Total solutions possible to form t.
+  * Total solutions possible to form t.  [Youtube link](https://www.youtube.com/my_videos?o=U)
   * Minimum numbers of coin needed to form t.
 5. Given a positive integer N, count all possible distinct binary strings of length N such that there are no consecutive 1′s - [CountNumberOfBinaryWithoutConsecutive1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java)
 6. Count number of trees that can be formed given a preorder sequence - [CountNumberOfTreePreorder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfTreePreorder.java)
