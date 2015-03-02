@@ -1,5 +1,11 @@
 ## Interview Questions##
 
+###Video Link###
+1. Longest Increasing Subsequence using dynamic programming [LIS](https://www.youtube.com/watch?v=CE2b_-XfVDk)
+2. Coin changing problem - Number of ways coins add up to form a total [CoinChangingWays](https://www.youtube.com/watch?v=_fgjrs570YE)
+3. Coin changing problem - Minimum number of coins to form a total [CoinChangingMin](https://www.youtube.com/watch?v=Y0ZqKpToTic)
+4. Cutting rod to maximize profit [CuttingRod](https://www.youtube.com/watch?v=IRwVmTmN6go)
+
 ###Simple Paxos implementation###
 Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
 
