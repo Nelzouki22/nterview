@@ -341,6 +341,13 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 3. Reservior sampling algorithm. In stream of numbers select k random numbers - [SelectMRandomNumbersInStream.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/SelectMRandomNumbersInStream.java)
 4. Given an array shuffle it - [ShuffleArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/ShuffleArray.java)
 
+###Stack Queues===
+1. Implement a circular queue using an array of fixed size - [CircularQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/CircularQueue.java)
+2. Find maximum size rectangle in histogram - [MaximumHistogram.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MaximumHistogram.java)
+3. Move from current folder to new folder as specified in argument - [MoveFromCurrentToNewFolder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MoveFromCurrentToNewFolder.java)
+4. Realtime counter [RealTimeCounter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RealTimeCounter.java) [RealTimeCounterUsingCircularQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java)
+5. Reverse stack using recursion - [ReverseStackUsingRecursion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/ReverseStackUsingRecursion.java)
+
 ###Geometry###
 1. Given points with x and y coordinates. Find distance between closest pair of points among the given points. [ClosestPairOfPoints.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/ClosestPairOfPoints.java)
 
