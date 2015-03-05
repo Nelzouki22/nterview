@@ -341,7 +341,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 3. Reservior sampling algorithm. In stream of numbers select k random numbers - [SelectMRandomNumbersInStream.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/SelectMRandomNumbersInStream.java)
 4. Given an array shuffle it - [ShuffleArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/random/ShuffleArray.java)
 
-###Stack Queues===
+###Stack Queues###
 1. Implement a circular queue using an array of fixed size - [CircularQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/CircularQueue.java)
 2. Find maximum size rectangle in histogram - [MaximumHistogram.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MaximumHistogram.java)
 3. Move from current folder to new folder as specified in argument - [MoveFromCurrentToNewFolder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MoveFromCurrentToNewFolder.java)
