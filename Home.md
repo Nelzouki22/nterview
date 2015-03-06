@@ -122,6 +122,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 34. Given three strings, determine if first two strings can interleave to form third string - [TwoStringInterleavingToFormThird.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/TwoStringInterleavingToFormThird.java)
 35. Given a number n, find all numbers from 1 to n which are multiples of 2,3 or 5 only. [UglyNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/UglyNumbers.java)
 36. Given the mobile numeric keypad. You can only press buttons that are up,left,right or down to the current button.You are not allowed to press bottom row corner buttons (i.e. * and # ).Given a N find out the number of numbers possible of given length - [PhoneDialNumberOfCombinationOfSizeK.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/PhoneDialNumberOfCombinationOfSizeK.java)
+37. Given a keyboard which only does 4 things, print A, select screen, copy screen and append to screen and given n, how many total As you can print on screen. [CountAs.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountAs.java)
 
 ###Graph###
 1. A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. [ArticulationPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java)
