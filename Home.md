@@ -5,6 +5,8 @@
 2. Coin changing problem - Number of ways coins add up to form a total [CoinChangingWays](https://www.youtube.com/watch?v=_fgjrs570YE)
 3. Coin changing problem - Minimum number of coins to form a total [CoinChangingMin](https://www.youtube.com/watch?v=Y0ZqKpToTic)
 4. Cutting rod to maximize profit [CuttingRod](https://www.youtube.com/watch?v=IRwVmTmN6go)
+5. 01 Knapsack problem [10Knapsack](https://www.youtube.com/watch?v=de1U-tDO0PE)
+6. Two player game who pick from either end of array. How to play to maximize total value picked [PickFromSideToWin](https://www.youtube.com/watch?v=WxpIHvsu1RI)
 
 ###Simple Paxos implementation###
 Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
