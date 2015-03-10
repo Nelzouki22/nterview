@@ -330,6 +330,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 5. Radix sort - [RadixSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/RadixSort.java)
 6. Sort an array in range of 0 to N^3(or 0 to N^2) - [Sort0toN3.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/Sort0toN3.java)
 7. Sort an array by frequency of number in that array - [SortArrayByFrequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/SortArrayByFrequence.java)
+8. Merge sort [MergeSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/MergeSort.java)
 
 ###Multithreading###
 1. Consumer producer problem with one consumer and one producer - [ConsumerProducerProblem.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ConsumerProducerProblem.java)
