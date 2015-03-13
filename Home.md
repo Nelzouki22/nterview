@@ -7,6 +7,12 @@
 4. Cutting rod to maximize profit [CuttingRod](https://www.youtube.com/watch?v=IRwVmTmN6go)
 5. 01 Knapsack problem [10Knapsack](https://www.youtube.com/watch?v=de1U-tDO0PE)
 6. Two player game who pick from either end of array. How to play to maximize total value picked [PickFromSideToWin](https://www.youtube.com/watch?v=WxpIHvsu1RI)
+7. Given a matrix of 0s and 1s, find maximum size sub-square matrix of 1s. [MaximumSizeSquareMatrix](https://www.youtube.com/watch?v=_Lf1looyJMU)
+8. Given two strings and operations edit, add and delete, find minimum number of operations it would take to convert one string to another [MinimumEditDistance](https://www.youtube.com/watch?v=We3YDTzNXEk)
+9. Given two strings, find longest common substring between two strings [LongestCommonSubstring](https://www.youtube.com/watch?v=BysNXJHzCEs)
+10. Given two strings, find longest common subsequence between two strings [LongestCommonSubsequence](https://www.youtube.com/watch?v=NnD96abizww)
+11. Given an array find longest bitonic sub-sequence in this array [LongestBitonicSubsequence](https://www.youtube.com/watch?v=TWHytKnOPaQ)
+12. Given job intervals and profit with each interval, how to schedule job to maximize profit in non overlapping way [WeightedJobScheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc)
 
 ###Simple Paxos implementation###
 Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
