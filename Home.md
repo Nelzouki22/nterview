@@ -242,6 +242,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 25. Given a positive integer n, generate all possible unique ways to represent n as sum of positive integers -[https://github.com/mission-peace/interview/blob/master/src/com/interview/number/UniquePartitionOfInteger.java](UniquePartitionOfInteger.java)
 26. A man is walking up a set of stairs. He can either take 1 or 2 steps at a time. Given n number of steps,find out how many combinations of steps he can take to reach the top of the stairs - [NumberOfCombinationsForStairs.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/NumberOfCombinationsForStairs.java)
 27. Given a number, find number of trailing zeros in the factorial of this number - [Trailing0sinFactorial.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/Trailing0sinFactorial.java)
+28. Factorial of a large number - [FactorialOfLargeNumber](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/FactorialOfLargeNumber.java)
 
 ###Tree###
 1. Self balancing tree AVL tree - [AVLTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/AVLTree.java)
