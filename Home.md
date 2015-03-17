@@ -288,6 +288,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 39. Given two nodes value find lowest common ancestor of these two nodes - [LowestCommonAncestorInBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LowestCommonAncestorInBinaryTree.java)
 40. Write a function to detect if two trees are isomorphic. Two trees are called isomorphic if one of them can be obtained from other by a series of flips - [TreeIsomorphism.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeIsomorphism.java)
 49. Vertex cover for binary tree using DP - [VertexCoverBinaryTreeDP.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/VertexCoverBinaryTreeDP.java)
+50. Convert a binary tree(Not BST) to sorted linklist. [DegenerateBinaryTreeToSortedLL](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/DegenerateBinaryTreeToSortedLL.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
