@@ -364,7 +364,8 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 3. Move from current folder to new folder as specified in argument - [MoveFromCurrentToNewFolder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MoveFromCurrentToNewFolder.java)
 4. Realtime counter [RealTimeCounter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RealTimeCounter.java) [RealTimeCounterUsingCircularQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java)
 5. Reverse stack using recursion - [ReverseStackUsingRecursion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/ReverseStackUsingRecursion.java)
-
+6. Given a string with unbalanced brackets how do you remove minimum number of extra brackets so that you are left with balanced brackets in the string - [RemoveExtraBrackets.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RemoveExtraBrackets.java)
+ 
 ###Geometry###
 1. Given points with x and y coordinates. Find distance between closest pair of points among the given points. [ClosestPairOfPoints.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/ClosestPairOfPoints.java)
 
