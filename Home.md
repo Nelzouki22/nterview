@@ -18,7 +18,6 @@
 Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
 
 ###Arrays###
-
 1. Given two numbers in form of array add them - 
 [ArrayAddition.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ArrayAddition.java)
 2. Given stock prices for number of days  [BuySellStockProfit.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/BuySellStockProfit.java)
@@ -93,14 +92,14 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 
 ###Dynamic Programming###
 1. Given a sequence of words, and a limit on the number of characters that can be put in one line (line width). Put line breaks in the given sequence such that the lines are printed neatly. [AdjustWordsInLine.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/AdjustWordsInLine.java)
-2. Find longest bitonic subsequence in an array. Bitonic subsequence first increases and then decreases - [BitonicSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BitonicSequence.java)
-3. Given a long word which is made up of multiple words, split the long word into individual words - [BreakMultipleWordsWithNoSpaceIntoSpace.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java)
+2. Find longest bitonic subsequence in an array. Bitonic subsequence first increases and then decreases - [BitonicSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BitonicSequence.java) [Youtube link](https://www.youtube.com/watch?v=TWHytKnOPaQ)
+3. Given a long word which is made up of multiple words, split the long word into individual words - [BreakMultipleWordsWithNoSpaceIntoSpace.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java) [Youtube Link](https://www.youtube.com/watch?v=WepWFGxiwRs)
 4. Coin changing problem. Given set of coins and a total t. - [CoinChanging.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CoinChanging.java)
   * Total solutions possible to form t.  [Youtube link](https://www.youtube.com/my_videos?o=U)
   * Minimum numbers of coin needed to form t. [Youtube link](https://www.youtube.com/watch?v=Y0ZqKpToTic)
 5. Given a positive integer N, count all possible distinct binary strings of length N such that there are no consecutive 1′s - [CountNumberOfBinaryWithoutConsecutive1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java)
-6. Count number of trees that can be formed given a preorder sequence - [CountNumberOfTreePreorder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfTreePreorder.java)
-7. Count number of binary search trees formed by an array of size n - [CountNumberOfTreesInBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfTreesInBST.java)
+6. Count number of trees that can be formed given a preorder sequence - [CountNumberOfTreePreorder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfTreePreorder.java) [Youtube link](https://www.youtube.com/watch?v=RUB5ZPfKcnY)
+7. Count number of binary search trees formed by an array of size n - [CountNumberOfTreesInBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CountNumberOfTreesInBST.java) [Youtube link](https://www.youtube.com/watch?v=YDf982Lb84o)
 8. Given a rod of length n inches and an array of prices that contains prices of all pieces of size smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the pieces - [CuttingRod.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CuttingRod.java) [Youtube link](https://www.youtube.com/watch?v=IRwVmTmN6go)
 9. Given n dice each with m faces, numbered from 1 to m, find the number of ways to get sum X. X is the summation of values on each face when all the dice are thrown - [DiceThrowWays.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/DiceThrowWays.java)
 10. Given two strings of size m, n and set of operations replace (R), insert (I) and delete (D) all at equal cost. Find minimum number of edits (operations) required to convert one string into another - [EditDistance.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/EditDistance.java)
