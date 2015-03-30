@@ -1,6 +1,7 @@
 ## Interview Questions##
 
 ###Video Link###
+[Youtube channel] (https://www.youtube.com/user/tusharroy2525)
 [Dynamic Programming Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
  
 ###Simple Paxos implementation###
