@@ -339,6 +339,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 3. Thread pool implementation - [ThreadPoolImpl.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ThreadPoolImpl.java)
 4. Given a queue which gets millions of messages. Message is of form <Domain,Update>.You have 10000 domain tables. Also you have 50 worker threads. You can only get data from front of the queue. Threads get data from the front and then update the domain table - [SingleQueueDomainTableUpdate.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/SingleQueueDomainTableUpdate.java)
 4. Design a spinlock mutex using two varialbles - [SpinLockMutex.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/SpinLockMutex.java)
+5. Design threadsafe real time counter - [RealTimeCounter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/RealTimeCounter.java)
 
 ###Regex###
 1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
@@ -353,9 +354,8 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 1. Implement a circular queue using an array of fixed size - [CircularQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/CircularQueue.java)
 2. Find maximum size rectangle in histogram - [MaximumHistogram.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MaximumHistogram.java)
 3. Move from current folder to new folder as specified in argument - [MoveFromCurrentToNewFolder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MoveFromCurrentToNewFolder.java)
-4. Realtime counter [RealTimeCounter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RealTimeCounter.java) [RealTimeCounterUsingCircularQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java)
-5. Reverse stack using recursion - [ReverseStackUsingRecursion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/ReverseStackUsingRecursion.java)
-6. Given a string with unbalanced brackets how do you remove minimum number of extra brackets so that you are left with balanced brackets in the string - [RemoveExtraBrackets.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RemoveExtraBrackets.java)
+4. Reverse stack using recursion - [ReverseStackUsingRecursion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/ReverseStackUsingRecursion.java)
+5. Given a string with unbalanced brackets how do you remove minimum number of extra brackets so that you are left with balanced brackets in the string - [RemoveExtraBrackets.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RemoveExtraBrackets.java)
  
 ###Geometry###
 1. Given points with x and y coordinates. Find distance between closest pair of points among the given points. [ClosestPairOfPoints.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/ClosestPairOfPoints.java)
