@@ -3,6 +3,7 @@
 ###Video Link###
 1. [Youtube channel] (https://www.youtube.com/user/tusharroy2525)
 2. [Dynamic Programming Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+3. [Binary Tree Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu)
  
 ###Simple Paxos implementation###
 Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
