@@ -340,6 +340,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 4. Given a queue which gets millions of messages. Message is of form <Domain,Update>.You have 10000 domain tables. Also you have 50 worker threads. You can only get data from front of the queue. Threads get data from the front and then update the domain table - [SingleQueueDomainTableUpdate.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/SingleQueueDomainTableUpdate.java)
 4. Design a spinlock mutex using two varialbles - [SpinLockMutex.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/SpinLockMutex.java)
 5. Design threadsafe real time counter - [RealTimeCounter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/RealTimeCounter.java)
+6. Design threadsafe program to keep counts of word - [CountingWord.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/CountingWord.java)
 
 ###Regex###
 1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
