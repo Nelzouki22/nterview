@@ -343,6 +343,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 5. Design threadsafe real time counter - [RealTimeCounter.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/RealTimeCounter.java)
 6. Design threadsafe program to keep counts of word - [CountingWord.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/CountingWord.java)
 7. Fill up 2D boolean matrix in thread safe way from top left to bottom right - [FillupMatrix.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/FillupMatrix.java)
+8. Design threadsafe program to keep min and max - [MinMaxKeeper.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/MinMaxKeeper.java)
 
 ###Regex###
 1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
