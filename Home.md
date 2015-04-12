@@ -281,6 +281,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 49. Vertex cover for binary tree using DP - [VertexCoverBinaryTreeDP.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/VertexCoverBinaryTreeDP.java)
 50. Convert a binary tree(Not BST) to sorted linklist. [DegenerateBinaryTreeToSortedLL](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/DegenerateBinaryTreeToSortedLL.java)
 51. Search in binary search tree - [BSTSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BSTSearch.java)
+52. Given a binary tree, return true if is binary search tree else return false -[IsBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IsBST.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
