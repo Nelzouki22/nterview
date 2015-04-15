@@ -1,5 +1,8 @@
 ## Interview Questions##
 
+###Private Tutoring###
+If you are interested in one on one private online tutoring from author of this github repository, please send email to tushar.roy@outlook.com
+
 ###Video Link###
 1. [Youtube channel] (https://www.youtube.com/user/tusharroy2525)
 2. [Dynamic Programming Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
