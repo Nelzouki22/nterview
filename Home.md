@@ -1,7 +1,7 @@
 ## Interview Questions##
 
 ###Private Tutoring###
-If you are interested in one on one private online tutoring from author of this github repository, please send email to tushar.roy@outlook.com
+If you are interested in one on one private online tutoring from author of this github repository, please send email to mission.peace.tutoring@gmail.com
 
 ###Video Link###
 1. [Youtube channel] (https://www.youtube.com/user/tusharroy2525)
