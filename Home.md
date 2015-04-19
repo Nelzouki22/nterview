@@ -286,8 +286,8 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 51. Search in binary search tree - [BSTSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BSTSearch.java)
 52. Given a binary tree, return true if is binary search tree else return false -[IsBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IsBST.java)
 53. Given two tree return true if they represent same tree else return false. [SameTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SameTree.java)
-54. Tree traversal in spiral order - [TreeTraversalInSpiralOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalInSpiralOrder.java)
-55. Tree traversal with printing each level on new line - [TreeTraversalLevelByLevel.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalLevelByLevel.java)
+54. Tree traversal in level and spiral order - [TreeTraversalInSpiralOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalInSpiralOrder.java)
+55. Tree traversal printing each level on new line - [TreeTraversalLevelByLevel.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalLevelByLevel.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
