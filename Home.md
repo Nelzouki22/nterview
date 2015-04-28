@@ -290,6 +290,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 54. Tree traversal in level and spiral order - [TreeTraversalInSpiralOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalInSpiralOrder.java)
 55. Tree traversal printing each level on new line - [TreeTraversalLevelByLevel.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/TreeTraversalLevelByLevel.java)
 56. Level order traversal in reverse - [LevelOrderTraversalInReverse.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LevelOrderTraversalInReverse.java)
+57. Fenwick tree - [FenwickTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/FenwickTree.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
