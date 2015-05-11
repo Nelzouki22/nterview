@@ -131,6 +131,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 39. Longest common substring between two strings. [LongestCommonSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/LongestCommonSubstring.java) [Youtube link](https://www.youtube.com/watch?v=BysNXJHzCEs)
 40. There are N stations on route of a train. The train goes from station 0 to N-1. The ticket cost for all pair of stations (i, j) is given where j is greater than i. Find the minimum cost to reach the destination. [MinimumCostTrainTicket.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MinimumCostTrainTicket.java)
 41. Fibonacci series [FibonacciSeries.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/FibonacciSeries.java) [Youtube link](https://www.youtube.com/watch?v=CFQk7OQO_xM)
+42. Given a 2D array of 0s and 1s, find size of maximum rectangular submatrix - [MaximumRectangularSubmatrixOf1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java)
 
 ###Graph###
 1. A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. [ArticulationPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java)
@@ -208,7 +209,6 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 7. Create a 2D array of alternating Xs and 0s rectangles - [MatrixOf0sAnd1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixOf0sAnd1s.java)
 8. Move in 2D array as per cell value - [MoveCellPerCellValue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MoveCellPerCellValue.java)
 9. Turn image by 90 degree - [TurnImageBy90.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/TurnImageBy90.java)
-10. Given a 2D array of 0s and 1s, find size of maximum rectangular submatrix - [MaximumRectangularSubmatrixOf1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MaximumRectangularSubmatrixOf1s.java)
 11. Given a n by n board where n is of form 2k where k >= 1 (Basically n is a power of 2 with minimum value as 2). The board has one missing cell (of size 1 x 1). Fill the board using L shaped tiles. [TilingProblem.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/TilingProblem.java)
 12. Print matrix in spiral way - [SpiralPrinting.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/SpiralPrinting.java)
 
