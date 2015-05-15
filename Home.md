@@ -132,6 +132,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 40. There are N stations on route of a train. The train goes from station 0 to N-1. The ticket cost for all pair of stations (i, j) is given where j is greater than i. Find the minimum cost to reach the destination. [MinimumCostTrainTicket.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MinimumCostTrainTicket.java)
 41. Fibonacci series [FibonacciSeries.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/FibonacciSeries.java) [Youtube link](https://www.youtube.com/watch?v=CFQk7OQO_xM)
 42. Given a 2D array of 0s and 1s, find size of maximum rectangular submatrix - [MaximumRectangularSubmatrixOf1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java)
+43. Given boxes of different dimensions, stack them on top of each other to get maximum height. But box on top should have strictly less length and width then box under it. [BoxStacking.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BoxStacking.java)
 
 ###Graph###
 1. A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. [ArticulationPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java)
