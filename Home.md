@@ -337,7 +337,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
 2. A ternary search tree is a special trie data structure where the child nodes of a standard trie are ordered as a binary search tree. Write a program to insert and search in ternary tree - [TernaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/TernaryTree.java)
 3. Write a program to insert,search and delete in trie - [Trie.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/Trie.java)
-4. Ukkonnen's suffix tree - [SuffixTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixTree.java)
+4. Ukkonen's suffix tree - [SuffixTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixTree.java)
 
 ###Sorting###
 1. Counting sort - [CountingSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/CountingSort.java)
