@@ -164,7 +164,6 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 23. A matching in a Bipartite Graph is a set of the edges chosen in such a way that no two edges share an endpoint - [MaximumBiparteMatching.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/MaximumBiparteMatching.java)
 24. Given a graph of 0s and 1s, find total number of islands of 1s - [NumberOfIsland.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/NumberOfIsland.java)
 25. Given a graph, find total number of triangles in the graph - [NumberofTriangles.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/NumberofTriangles.java)
-26. Path compression and rank algorithm - [PathCompressionAndRank.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/PathCompressionAndRank.java)
 27. Prim's algorithm for minimum spanning tree - [PrimMST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/PrimMST.java)
 28. Print all paths from source to destination in undirected graph - [PrintAllPathFromSourceToDestination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/PrintAllPathFromSourceToDestination.java)
 29. Given a directed graph, find strongly connected components of the graph - [StronglyConnectedComponent.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/StronglyConnectedComponent.java)
