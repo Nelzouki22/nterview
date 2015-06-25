@@ -354,7 +354,6 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 9. Heap sort [HeapSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/HeapSort.java)
 
 ###Multithreading###
-1. Consumer producer problem with one consumer and one producer - [ConsumerProducerProblem.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ConsumerProducerProblem.java)
 2. Executor service example - [ThreadPoolExample.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ThreadPoolExample.java)
 3. Thread pool implementation - [ThreadPoolImpl.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/ThreadPoolImpl.java)
 4. Given a queue which gets millions of messages. Message is of form <Domain,Update>.You have 10000 domain tables. Also you have 50 worker threads. You can only get data from front of the queue. Threads get data from the front and then update the domain table - [SingleQueueDomainTableUpdate.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/SingleQueueDomainTableUpdate.java)
@@ -363,6 +362,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 6. Design threadsafe program to keep counts of word - [CountingWord.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/CountingWord.java)
 7. Fill up 2D boolean matrix in thread safe way from top left to bottom right - [FillupMatrix.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/FillupMatrix.java)
 8. Design threadsafe program to keep min and max - [MinMaxKeeper.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/MinMaxKeeper.java)
+9. BoundedBlockingQueue implementation(producer consumer) - [BoundedBlockingQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/BoundedBlockingQueue.java)
 
 ###Regex###
 1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
