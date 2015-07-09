@@ -317,6 +317,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 14. KMP substring search - [SubstringSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/SubstringSearch.java)
 15. Wild card searching - [WildCardSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/WildCardSearch.java)
 16. Remove consecutive duplicate elements in character array - [RemoveConsecutiveDuplicate.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/RemoveConsecutiveDuplicate.java)
+17. Print all combinations of word abbreviation [WordAbbreviationCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/WordAbbreviationCombination.java)
 
 ###Recursion###
 1. Generate all combination of size k and less of adjacent numbers - [AllAdjacentCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/AllAdjacentCombination.java)
