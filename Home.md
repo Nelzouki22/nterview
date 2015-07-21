@@ -54,6 +54,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 32. Given an unsorted array convert it into a < b > c < d > e < f > g fashion - [ConvertAnArrayIntoDecreaseIncreaseFashion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java)
 33. Given multiple sorted lists, sort them into one list - [ChunkMerge.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ChunkMerge.java)
 34. Given an array which represents bars how much rain water will be trapped - [TrappingWater.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TrappingWater.java)
+35. Print nth number of count sequence. Sequence is like 1 11 21 1211 111221 and so on. [NthElementOfCountNumberSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/NthElementOfCountNumberSequence.java)
 
 ###Binary Search###
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
