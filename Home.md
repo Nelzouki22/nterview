@@ -137,6 +137,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 41. Fibonacci series [FibonacciSeries.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/FibonacciSeries.java) [Youtube link](https://www.youtube.com/watch?v=CFQk7OQO_xM)
 42. Given a 2D array of 0s and 1s, find size of maximum rectangular submatrix - [MaximumRectangularSubmatrixOf1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java)
 43. Given boxes of different dimensions, stack them on top of each other to get maximum height. But box on top should have strictly less length and width then box under it. [BoxStacking.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BoxStacking.java)
+44. Given a rod with markings. Cut the rod along markings but reduce the cost of cutting. Cost if cutting is proportional to the length of rod being cut.[CutRodToMinimizeCost.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CutRodToMinimizeCost.java)
 
 ###Graph###
 1. A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. [ArticulationPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java)
