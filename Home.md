@@ -13,6 +13,9 @@ Please contribute to this repository to help it make better. Any change like new
 1. [Youtube channel] (https://www.youtube.com/user/tusharroy2525)
 2. [Dynamic Programming Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 3. [Binary Tree Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu)
+4. [Stack Queue Youtube playlist]https://www.youtube.com/playlist?list=PLrmLmBdmIlptv-uwAgP8k5pGdlHedncq1
+5. [Suffix/Prefix Youtube playlist]https://www.youtube.com/playlist?list=PLrmLmBdmIlpvxhscYQdvfFNWU_pdkG5de
+6. [Graph Youtube playlist]https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
  
 ###Simple Paxos implementation###
 Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
