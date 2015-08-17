@@ -177,6 +177,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 32. Clone directed graph - [CloneDirectedGraph.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/CloneDirectedGraph.java)
 33. Disjoint set using path compression and union by rank [DisjointSet.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/DisjointSet.java)
 34. Given a 2D array of empty space, blockers and multiple guards. Find distance of every empty space to closest guard. [ShortestDistanceFromGuard.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ShortestDistanceFromGuard.java)
+35. Tarjan's strongly connected component - [TarjanStronglyConnectedComponent.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TarjanStronglyConnectedComponent.java)
 
 ###LinkList###
 1. Add two numbers represented by link list - [AddNumberRepresentedByLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/AddNumberRepresentedByLinkList.java)
