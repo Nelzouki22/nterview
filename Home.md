@@ -180,6 +180,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 33. Disjoint set using path compression and union by rank [DisjointSet.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/DisjointSet.java)
 34. Given a 2D floor plan of empty spaces, walls and multiple exits. Find distance of every empty space to closest exit. [ShortestDistanceFromExit.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ShortestDistanceFromExit.java)
 35. Tarjan's strongly connected component - [TarjanStronglyConnectedComponent.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TarjanStronglyConnectedComponent.java)
+36. Tarjan's algorithm to find all simple cycles in directed graph - [AllCyclesInDirectedGraphTarjan.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/AllCyclesInDirectedGraphTarjan.java)
 
 ###LinkList###
 1. Add two numbers represented by link list - [AddNumberRepresentedByLinkList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/AddNumberRepresentedByLinkList.java)
