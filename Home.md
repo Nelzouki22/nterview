@@ -350,6 +350,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 18. Shuffle a character array so that no two repeated characters are together. [FancyShuffle.java] (https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/FancyShuffle.java)
 19. Given an input and total, print all combinations with repetitions in this input which sums to given total. [PrintSumCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintSumCombination.java)
 20. Given a List of List of Strings. Print cartesian product of List. [WordCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/WordCombination.java)
+21. Z algorithm for pattern matching [ZAlgorithm.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/ZAlgorithm.java)
 
 ###Suffix/Prefix Tree###
 1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
