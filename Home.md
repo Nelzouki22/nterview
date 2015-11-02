@@ -310,6 +310,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 57. Fenwick tree - [FenwickTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/FenwickTree.java)
 58. Red black tree - [RedBlackTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/RedBlackTree.java)
 59. Given an preorder sequence determine if it is of binary search tree or not [IsPreOrderArrayBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IsPreOrderArrayBST.java)
+60. Succinct encoding/decoding of binary tree [SuccinctTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SuccinctTree.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
