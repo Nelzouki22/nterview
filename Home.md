@@ -314,6 +314,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 61. Create binary tree from parent representation - [BinaryTreeFromParentRepresentation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeFromParentRepresentation.java)
 62. Given pre/inorder traversal of binary tree, create post order traversal - [PrintPostOrderFromPreOrderInOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/PrintPostOrderFromPreOrderInOrder.java)
 63. Construct all binary search tree from inorder traversal [ConstructAllBinaryTreeFromInorderTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructAllBinaryTreeFromInorderTraversal.java)
+64. Interval tree [IntervalTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IntervalTree.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
