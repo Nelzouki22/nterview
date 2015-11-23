@@ -181,7 +181,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 34. Given a 2D floor plan of empty spaces, walls and multiple exits. Find distance of every empty space to closest exit. [ShortestDistanceFromExit.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ShortestDistanceFromExit.java)
 35. Tarjan's strongly connected component - [TarjanStronglyConnectedComponent.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/TarjanStronglyConnectedComponent.java)
 36. Tarjan's algorithm to find all simple cycles in directed graph - [AllCyclesInDirectedGraphTarjan.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/AllCyclesInDirectedGraphTarjan.java)
-37. Johnson's algorithm for finding all cycles in directed graph - [AllCyclesinDirectedGraphJohnson.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/AllCyclesinDirectedGraphJohnson.java)
+37. Johnson's algorithm for finding all cycles in directed graph - [AllCyclesInDirectedGraphJohnson.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/AllCyclesInDirectedGraphJohnson.java)
 38. Traveling salesman problem using Held Karp Dynamic programming method - [HeldKarpTravelingSalesman.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/HeldKarpTravelingSalesman.java)
 
 ###LinkList###
