@@ -143,6 +143,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 43. Given boxes of different dimensions, stack them on top of each other to get maximum height. But box on top should have strictly less length and width then box under it. [BoxStacking.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BoxStacking.java)
 44. Given a rod with markings. Cut the rod along markings but reduce the cost of cutting. Cost if cutting is proportional to the length of rod being cut.[CutRodToMinimizeCost.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/CutRodToMinimizeCost.java)
 45. Given two strings, tell if one string is scrambled of another or not. Read question on the code to see what scrambled means. [ScrambledString.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/ScrambledString.java)
+46. Maximize Ski gates passage [MaximizeSkiGates.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/MaximizeSkiGates.java)
 
 ###Graph###
 1. A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. [ArticulationPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java)
