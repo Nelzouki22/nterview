@@ -61,6 +61,7 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 36. Given 2 arrays of same length consisting of 0s and 1s find max span i,j in two arrays such that sum b/w
 i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LongestSameSumSpan.java) [longestsamesumspan.py](https://github.com/mission-peace/interview/blob/master/python/array/longestsamesumspan.py)
 37. Count number of inversions where i < j < k and input[i] > input[j] > input[k] in array. [CountInversionOfSize3.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/CountInversionOfSize3.java) [countinversionofsize3.py](https://github.com/mission-peace/interview/blob/master/python/array/countinversionofsize3.py)
+38. Given an array of unique integers and total, find all triplets whose sum is less than total. [TripletSumLessThanTotal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TripletSumLessThanTotal.java)[tripletsumlessthantotal.py](https://github.com/mission-peace/interview/blob/master/python/array/tripletsumlessthantotal.py)
 
 ###Binary Search###
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
