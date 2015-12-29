@@ -58,6 +58,8 @@ Main thread for paxos implementation [MainWorker.java](https://github.com/missio
 33. Given multiple sorted lists, sort them into one list - [ChunkMerge.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ChunkMerge.java)
 34. Given an array which represents bars how much rain water will be trapped - [TrappingWater.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/TrappingWater.java)
 35. Print nth number of count sequence. Sequence is like 1 11 21 1211 111221 and so on. [NthElementOfCountNumberSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/NthElementOfCountNumberSequence.java)
+36. Given 2 arrays of same length consisting of 0s and 1s find max span i,j in two arrays such that sum b/w
+i to j is same. [LongestSameSumSpan.java]](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LongestSameSumSpan.java) [longestsamesumspan.py](https://github.com/mission-peace/interview/blob/master/python/array/longestsamesumspan.py)
 
 ###Binary Search###
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
