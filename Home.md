@@ -368,13 +368,14 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 18. Shuffle a character array so that no two repeated characters are together. [FancyShuffle.java] (https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/FancyShuffle.java)
 19. Given an input and total, print all combinations with repetitions in this input which sums to given total. [PrintSumCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintSumCombination.java)
 20. Given a List of List of Strings. Print cartesian product of List. [WordCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/WordCombination.java)
-21. Z algorithm for pattern matching [ZAlgorithm.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/ZAlgorithm.java)
+21. Given input of unique elements and pair among those elements. How many minimum swaps are needed to arrange pair adjacent to each other. [SetPairTogether.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/SetPairTogether.java) [setpairtogether.py](https://github.com/mission-peace/interview/blob/master/python/recursion/setpairtogether.py)
 
 ###Suffix/Prefix Tree###
 1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
 2. A ternary search tree is a special trie data structure where the child nodes of a standard trie are ordered as a binary search tree. Write a program to insert and search in ternary tree - [TernaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/TernaryTree.java)
 3. Write a program to insert,search and delete in trie - [Trie.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/Trie.java)
 4. Ukkonen's suffix tree - [SuffixTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixTree.java)
+5. Z algorithm for pattern matching [ZAlgorithm.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/ZAlgorithm.java)
 
 ###Sorting###
 1. Counting sort - [CountingSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/sort/CountingSort.java)
