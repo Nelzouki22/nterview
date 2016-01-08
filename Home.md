@@ -423,7 +423,8 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
  
 ###Geometry###
 1. Given points with x and y coordinates. Find distance between closest pair of points among the given points. [ClosestPairOfPoints.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/ClosestPairOfPoints.java)
-2. Given skyline of city with overlapping buildings. Merge the buildings. [SkylineDrawing.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/SkylineDrawing.java)[skylinedrawing.py](https://github.com/mission-peace/interview/blob/master/python/geometry/skylinedrawing.py)
+2. Given skyline of city with overlapping buildings. Merge the buildings. [SkylineDrawing.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/SkylineDrawing.java)    
+ [skylinedrawing.py](https://github.com/mission-peace/interview/blob/master/python/geometry/skylinedrawing.py)
 
 ###Misc###
 1. Given two sets of intervals. Ranges in the same set do not overlap each other. Merge these sets - [AddingTwoSetOfIntervals.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/AddingTwoSetOfIntervals.java)
