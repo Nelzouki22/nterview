@@ -274,6 +274,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 26. A man is walking up a set of stairs. He can either take 1 or 2 steps at a time. Given n number of steps,find out how many combinations of steps he can take to reach the top of the stairs - [NumberOfCombinationsForStairs.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/NumberOfCombinationsForStairs.java)
 27. Given a number, find number of trailing zeros in the factorial of this number - [Trailing0sinFactorial.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/Trailing0sinFactorial.java)
 28. Factorial of a large number - [FactorialOfLargeNumber](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/FactorialOfLargeNumber.java)
+29. Find mth number in array of [1..n] where m is defined by lexicographically order - [MthNumberInNSizeArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/MthNumberInNSizeArray.java)
 
 ###Tree###
 1. Self balancing tree AVL tree - [AVLTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/AVLTree.java)
