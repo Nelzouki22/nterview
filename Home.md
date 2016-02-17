@@ -1,4 +1,6 @@
-## Interview Questions##
+##Contact Info##
+Contact me on IRC channel if you have a question.
+Server: irc.foonetic.net Channel: #tusharroy
 
 ###Facebook Page###
 Like my Facebook page for updates on new video. https://www.facebook.com/tusharroy25 
@@ -17,9 +19,6 @@ Please contribute to this repository to help it make better. Any change like new
 5. [Suffix/Prefix Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpvxhscYQdvfFNWU_pdkG5de)
 6. [Graph Youtube playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j)
  
-###Simple Paxos implementation###
-Main thread for paxos implementation [MainWorker.java](https://github.com/mission-peace/Paxos/blob/master/src/com/interview/paxos/manager/MainWorker.java)
-
 ###Arrays###
 1. Given two numbers in form of array add them - 
 [ArrayAddition.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ArrayAddition.java)
