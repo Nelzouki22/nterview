@@ -1,6 +1,6 @@
 ##Contact Info##
 Contact me on IRC channel if you have a question.
-Server: irc.foonetic.net Channel: #tusharroy
+Server: **irc.foonetic.net** Channel: **#tusharroy**
 
 ###Facebook Page###
 Like my Facebook page for updates on new video. https://www.facebook.com/tusharroy25 
