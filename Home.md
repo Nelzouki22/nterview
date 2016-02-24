@@ -247,7 +247,6 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 ###Numbers###
 1. Given a large number tell where it is an aggregate number or not - [AggregateNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/AggregateNumber.java)
 2. Given an array of sorted numbers, tell if there are 3 numbers which form arithmetic progression - [ArithemeticProgressionExists.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArithemeticProgressionExists.java)
-3. Given a series of numbers as the input, the last one as the result.Use the rest numbers to calculate the result,only +, -, *, / are allowed - [ArithmeticOperatorForFinalResult.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArithmeticOperatorForFinalResult.java)
 4. Given two numbers in form of an array, multiply them - [ArrayMultiplication.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ArrayMultiplication.java)
 5. Given a number n and k, find binomial coefficient of n to k - [BinomialCoefficient.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/BinomialCoefficient.java)
 6. Covert a decimal number into any other base N < 10 - [ConvertToBaseN.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/ConvertToBaseN.java)
@@ -376,7 +375,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 19. Given an input and total, print all combinations with repetitions in this input which sums to given total. [PrintSumCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintSumCombination.java)
 20. Given a List of List of Strings. Print cartesian product of List. [WordCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/WordCombination.java)
 21. Given input of unique elements and pair among those elements. How many minimum swaps are needed to arrange pair adjacent to each other. [SetPairTogether.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/SetPairTogether.java) [setpairtogether.py](https://github.com/mission-peace/interview/blob/master/python/recursion/setpairtogether.py)
-
+22. Given input string e.g 123 and target e.g 6, place operator +, -  and * so that 123 evaluates to 6. [OperatorAdditionForTarget.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/OperatorAdditionForTarget.java)
 ###Suffix/Prefix Tree###
 1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
 2. A ternary search tree is a special trie data structure where the child nodes of a standard trie are ordered as a binary search tree. Write a program to insert and search in ternary tree - [TernaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/TernaryTree.java)
