@@ -376,6 +376,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 20. Given a List of List of Strings. Print cartesian product of List. [WordCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/WordCombination.java)
 21. Given input of unique elements and pair among those elements. How many minimum swaps are needed to arrange pair adjacent to each other. [SetPairTogether.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/SetPairTogether.java) [setpairtogether.py](https://github.com/mission-peace/interview/blob/master/python/recursion/setpairtogether.py)
 22. Given input string e.g 123 and target e.g 6, place operator +, -  and * so that 123 evaluates to 6. [OperatorAdditionForTarget.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/OperatorAdditionForTarget.java)
+23. Print all permutations of given input array - [PrintAllSubsequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintAllSubsequence.java)
 
 ###Suffix/Prefix Tree###
 1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
