@@ -71,6 +71,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 46. Given two sorted arrays find max sum path from start of any array to end of any array. Switch only happens at common array element. [MaximumSumPathTwoArrays.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumSumPathTwoArrays.java) [maximumsumpathtwoarrays.py](https://github.com/mission-peace/interview/blob/master/python/array/maximumsumpathtwoarrays.py)
 47. Find common elements in 3 sorted array. [CommonThreeSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/CommonThreeSortedArray.java) [commonthreesortedarray.py](https://github.com/mission-peace/interview/blob/master/python/array/commonthreesortedarray.py)
 48. Generate minimum number from give sequence of D and I where D indicates decrease and I indicates increase.[MinimumNumberFromSequence.java] (https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MinimumNumberFromSequence.java)
+49. Count smaller numbers on right side of every element in given array - [CountSmallerOnRight.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/CountSmallerOnRight.java)
 
 ###Binary Search###
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
