@@ -427,6 +427,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 4. Reverse stack using recursion - [ReverseStackUsingRecursion.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/ReverseStackUsingRecursion.java)
 5. Given a string with unbalanced brackets how do you remove minimum number of extra brackets so that you are left with balanced brackets in the string - [RemoveExtraBrackets.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RemoveExtraBrackets.java)
 6. Remove duplicates from a string while maintaining order and getting lexicographically smallest string - [RemoveDuplicateMaintainingOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/RemoveDuplicateMaintainingOrder.java)
+7. Find median in stream of numbers - [MedianFinder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/stackqueue/MedianFinder.java)
  
 ###Geometry###
 1. Given points with x and y coordinates. Find distance between closest pair of points among the given points. [ClosestPairOfPoints.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/ClosestPairOfPoints.java)
