@@ -73,6 +73,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 48. Generate minimum number from give sequence of D and I where D indicates decrease and I indicates increase.[MinimumNumberFromSequence.java] (https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MinimumNumberFromSequence.java)
 49. Count smaller numbers on right side of every element in given array - [CountSmallerOnRight.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/CountSmallerOnRight.java)
 50. Find max array created by picking k elements from array1 and array2 by maintaining order in both the arrays - [MaxNumberFromTwoArray](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaxNumberFromTwoArray.java)
+51. Find duplicate in array of size n + 1 with elements from 1 to n in O(1) space - [DuplicateNumberDetection.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/DuplicateNumberDetection.java)
 
 ###Binary Search###
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
