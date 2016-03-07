@@ -75,6 +75,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 50. Find max array created by picking k elements from array1 and array2 by maintaining order in both the arrays - [MaxNumberFromTwoArray](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaxNumberFromTwoArray.java)
 51. Find duplicate in array of size n + 1 with elements from 1 to n in O(1) space - [DuplicateNumberDetection.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/DuplicateNumberDetection.java)
 52. Shortest palindrome from a string - [ShortestPalindrome.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/ShortestPalindrome.java)
+53. Find if there exists an increasing subsequence of length 3 or increasing triplet - (https://github.com/mission- [IncreasingTripletSubsequence.java]peace/interview/blob/master/src/com/interview/array/IncreasingTripletSubsequence.java)
 
 ###Binary Search###
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
