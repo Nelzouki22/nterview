@@ -111,6 +111,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 16. Initially there is a number n. Two players start playing a game turn by turn. Each player has to replace the number n written on the board by n-2^k (for some k >= 0 such that 2^k < n) - [WinnerWithBeautifulNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/WinnerWithBeautifulNumber.java)
 17. Square of a number without using * or ^ operator - [SquareOfNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/SquareOfNumber.java)
 18. Find two missing number where there are n-2 unique numbers in range 1 to n. Find one missing and one repeated number where all numbers are in range 1 to n. [MissingNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/MissingNumbers.java)
+19. Repeated dna sequence of length 10 - [RepeatedDnaSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/RepeatedDnaSequence.java)
 
 ###Dynamic Programming###
 1. Given a sequence of words, and a limit on the number of characters that can be put in one line (line width). Put line breaks in the given sequence such that the lines are printed neatly. [TextJustification.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/TextJustification.java)
