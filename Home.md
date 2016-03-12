@@ -345,6 +345,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 63. Construct all binary search tree from inorder traversal [ConstructAllBinaryTreeFromInorderTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/ConstructAllBinaryTreeFromInorderTraversal.java)
 64. Interval tree [IntervalTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/IntervalTree.java)
 66. Morris inorder/preorder traversal of tree - [MorrisTraversal.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/MorrisTraversal.java)
+67. Serialize deserialize binary tree - [SerializeDeserializeBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SerializeDeserializeBinaryTree.java)
 
 ###String###
 1. Given two strings tells if anagram of first is substring of another - [AnagramOfFirstAsSubstring.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/AnagramOfFirstAsSubstring.java)
