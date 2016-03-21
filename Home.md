@@ -172,6 +172,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 50. Given balloons with certain values in what order should you burst them to get max value. [BurstBalloons.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/BurstBalloons.java)
 51. Given a 2D matrix, find longest increasing path in this matrix - [LongestIncreasingPath.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/LongestIncreasingPath.java)
 52. Given a 2D matrix matrix, find the sum of the elements inside the rectangle defined by its upper left corner (row1, col1) and lower right corner - [Immutable2DSumRangeQuery.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/Immutable2DSumRangeQuery.java)
+53. Given a string S and a string T, count the number of distinct subsequences of T in S - [DistinctSubsequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/DistinctSubsequence.java)
 
 ###Graph###
 1. A vertex in an undirected connected graph is an articulation point (or cut vertex) iff removing it (and edges through it) disconnects the graph. [ArticulationPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/ArticulationPoint.java)
