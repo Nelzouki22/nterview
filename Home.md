@@ -396,6 +396,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 23. Print all permutations of given input array - [PrintAllSubsequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/PrintAllSubsequence.java)
 24. Reconstruct itinerary based on ticket - [ReconstructItinerary.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/ReconstructItinerary.java)
 25. Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results - [RemoveInvalidParenthesis.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/RemoveInvalidParenthesis.java)
+26. Sudoku solver - [SudokuSolver.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/SudokuSolver.java)
 
 ###Suffix/Prefix Tree###
 1. A suffix array is a sorted array of all suffixes of a given string. Given an array create suffix array for it - [SuffixArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/suffixprefix/SuffixArray.java)
