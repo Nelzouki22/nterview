@@ -78,6 +78,7 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 53. Find if there exists an increasing subsequence of length 3 or increasing triplet  -[IncreasingTripletSubsequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/IncreasingTripletSubsequence.java)
 54. Given an unsorted array find maximum gap between consecutive element in sorted array - [MaximumGap.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumGap.java)
 55. Find longest consecutive subsequence in an unsorted array - [LongestConsecutiveSubsequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LongestConsecutiveSubsequence.java)
+56. Wiggle sort - [WiggleSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/WiggleSort.java)
 
 ###Binary Search###
 1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
