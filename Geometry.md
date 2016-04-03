@@ -1,0 +1,4 @@
+1. Given points with x and y coordinates. Find distance between closest pair of points among the given points. [ClosestPairOfPoints.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/ClosestPairOfPoints.java)
+2. Given skyline of city with overlapping buildings. Merge the buildings. [SkylineDrawing.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/SkylineDrawing.java)    
+ [skylinedrawing.py](https://github.com/mission-peace/interview/blob/master/python/geometry/skylinedrawing.py)
+3. Given n points on a 2D plane, find the maximum number of points that lie on the same straight line - [MaximumPointsOnSameLine.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/geometry/MaximumPointsOnSameLine.java)
