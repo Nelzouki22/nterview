@@ -21,21 +21,9 @@ Please contribute to this repository to help it make better. Any change like new
  
 ###Topics###
 1. [Arrays](https://github.com/mission-peace/interview/wiki/Arrays)
+2. [Binary Search](https://github.com/mission-peace/interview/wiki/Binary-Search)
 
 ###Binary Search###
-1. Given an arithmetic progression with one number mission find that missing number - [ArithmeticProgressionSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/ArithmeticProgressionSearch.java)
-2. Search an element in sorted array - [BinarySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/BinarySearch.java)
-3. Search an element in array which is first increasing then decreasing then increasing or other way round - [CircularBinarySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/CircularBinarySearch.java)
-4. Given a sorted array find total number of pairs whose difference is k - [CountNDistinctPairsWithDifferenceK.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/CountNDistinctPairsWithDifferenceK.java)
-5. Given a sorted array with duplicates, find first occurrence of a given element - [FirstOccurrenceOfNumberInSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/FirstOccurrenceOfNumberInSortedArray.java)
-6. Find floor and ceiling of given element in sorted array - [FloorAndCeilingSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/FloorAndCeilingSortedArray.java)
-7. Find median of two sorted array of same size - [MedianOfTwoSortedArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MedianOfTwoSortedArray.java)
-8. Find a missing number in array of consecutive numbers - [MissingNumberInConsecutiveNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.java)
-9. Find a value of function in which this monotonically increasing function becomes positive - [MonotonicallyIncreasingFunctionBecomesPositive.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java)
-10. Find number of pairs where x^y > y^x - [NumberOfPairWithXPowerYGreaterThanYPowerX.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java)
-11. Given an array find an element which is larger than both its neighbors - [PeakElement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/PeakElement.java)
-12. Given an array which is sorted and rotated find an element - [SortedAndRotatedArraySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/SortedAndRotatedArraySearch.java)
-13. Minimum element in sorted and rotated array 
 
 ###Bits###
 1. Add two number in binary representation - [AddTwoNumberInBinaryRepresentation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/AddTwoNumberInBinaryRepresentation.java)
