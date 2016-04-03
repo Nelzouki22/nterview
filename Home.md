@@ -20,7 +20,7 @@ Please contribute to this repository to help it make better. Any change like new
 2. [Binary Search](https://github.com/mission-peace/interview/wiki/Binary-Search)
 3. [Bits](https://github.com/mission-peace/interview/wiki/Bits)
 4. [Dynamic Programming](https://github.com/mission-peace/interview/wiki/Dynamic-Programming)
-5. [Graph][https://github.com/mission-peace/interview/wiki/Graph]
+5. [Graph](https://github.com/mission-peace/interview/wiki/Graph)
 6. [LinkList](https://github.com/mission-peace/interview/wiki/LinkList)
 7. [Multi-Array](https://github.com/mission-peace/interview/wiki/Multi-Array)
 8. [Numbers](https://github.com/mission-peace/interview/wiki/Numbers)
