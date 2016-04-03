@@ -1,0 +1,1 @@
+1. Given a sentence with multiple spaces between words and also spaces in front and back of sentence how do you remove these extra spaces - [MultiSpaceReplacement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/regex/MultiSpaceReplacement.java)
