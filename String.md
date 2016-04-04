@@ -15,3 +15,4 @@
 15. Wild card searching - [WildCardSearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/WildCardSearch.java)
 16. Remove consecutive duplicate elements in character array - [RemoveConsecutiveDuplicate.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/RemoveConsecutiveDuplicate.java)
 17. Print all combinations of word abbreviation [WordAbbreviationCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/WordAbbreviationCombination.java)
+17. Longest substring with at most k distinct characters - [LongestSubstringWithKDistinctCharacters.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongestSubstringWithKDistinctCharacters.java)
