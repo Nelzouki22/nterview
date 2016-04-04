@@ -18,3 +18,4 @@
 18. Find two missing number where there are n-2 unique numbers in range 1 to n. Find one missing and one repeated number where all numbers are in range 1 to n. [MissingNumbers.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/MissingNumbers.java)
 19. Repeated dna sequence of length 10 - [RepeatedDnaSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/RepeatedDnaSequence.java)
 20. Get first 2^n gray code - [GrayCode.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/GrayCode.java)
+21. Return an array which gives count of bits till num - [CountingBitsTillNum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/CountingBitsTillNum.java)
