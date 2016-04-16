@@ -58,3 +58,4 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 55. Find longest consecutive subsequence in an unsorted array - [LongestConsecutiveSubsequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/LongestConsecutiveSubsequence.java)
 56. Wiggle sort - [WiggleSort.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/WiggleSort.java)
 57. Best meeting point from bunch of people - [BestMeetingPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/BestMeetingPoint.java)
+58. Given an array of positive number arrange it in max min fashion - [MaximumMinimumArrangement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumMinimumArrangement.java)
