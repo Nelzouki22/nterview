@@ -19,3 +19,4 @@
 19. Repeated dna sequence of length 10 - [RepeatedDnaSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/RepeatedDnaSequence.java)
 20. Get first 2^n gray code - [GrayCode.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/GrayCode.java)
 21. Return an array which gives count of bits till num - [CountingBitsTillNum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/CountingBitsTillNum.java)
+22. Find max product of words length in given array - [MaxProductWordLength.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/bits/MaxProductWordLength.java)
