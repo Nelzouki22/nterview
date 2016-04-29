@@ -16,3 +16,4 @@
 16. Given an integer array nums, return the number of range sums that lie in [lower, upper] inclusive - [CountRanges.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/CountRanges.java)
 17. Given a read function which supports reading only 4 bytes implement a reader which can read bytes of given size - [Read4Function.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/Read4Function.java)
 18. Insert interval into sorted intervals and merge if needed - [InsertInterval.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/InsertInterval.java)
+19. Range minimum query using sparse table - [SparseTableRangeMinimumQuery.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/SparseTableRangeMinimumQuery.java)
