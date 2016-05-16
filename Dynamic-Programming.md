@@ -55,3 +55,4 @@
 52. Given a 2D matrix matrix, find the sum of the elements inside the rectangle defined by its upper left corner (row1, col1) and lower right corner - [Immutable2DSumRangeQuery.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/Immutable2DSumRangeQuery.java)
 53. Given a string S and a string T, count the number of distinct subsequences of T in S - [DistinctSubsequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/DistinctSubsequence.java)
 54. Dungeon game - [DungeonGame.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/DungeonGame.java)
+55. Find total number of ways to decode a given number - [DecodeWays.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/dynamic/DecodeWays.java)
