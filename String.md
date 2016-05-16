@@ -17,3 +17,4 @@
 17. Print all combinations of word abbreviation [WordAbbreviationCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/WordAbbreviationCombination.java)
 17. Longest substring with at most k distinct characters - [LongestSubstringWithKDistinctCharacters.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongestSubstringWithKDistinctCharacters.java)
 18. Design an algorithm to encode and decode list of strings - [StringEncoderDecoder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/StringEncoderDecoder.java)
+19. Given a string tell if it is a palindrome. Ignore cases and non alphanumeric characters - [ValidPalindrome.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/ValidPalindrome.java)
