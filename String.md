@@ -16,3 +16,4 @@
 16. Remove consecutive duplicate elements in character array - [RemoveConsecutiveDuplicate.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/RemoveConsecutiveDuplicate.java)
 17. Print all combinations of word abbreviation [WordAbbreviationCombination.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/WordAbbreviationCombination.java)
 17. Longest substring with at most k distinct characters - [LongestSubstringWithKDistinctCharacters.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/LongestSubstringWithKDistinctCharacters.java)
+18. Design an algorithm to encode and decode list of strings - [StringEncoderDecoder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/StringEncoderDecoder.java)
