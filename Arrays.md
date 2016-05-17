@@ -60,3 +60,4 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 57. Best meeting point from bunch of people - [BestMeetingPoint.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/BestMeetingPoint.java)
 58. Given an array of positive number arrange it in max min fashion - [MaximumMinimumArrangement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MaximumMinimumArrangement.java)
 59. Given a string find if it can form additive number - [AdditiveNumber.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/AdditiveNumber.java)
+60. Minimum number of meeting rooms needed to schedule array of meetings - [MeetingRooms.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MeetingRooms.java)
