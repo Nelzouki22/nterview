@@ -60,3 +60,4 @@
 67. Serialize deserialize binary tree - [SerializeDeserializeBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SerializeDeserializeBinaryTree.java)
 68. Lowest common ancestor in binary search tree - [LowestCommonAncestoryBinarySearchTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LowestCommonAncestoryBinarySearchTree.java)
 69. Inorder successor of binary tree - [InorderSuccessor.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/InorderSuccessor.java)
+70. Maximum sum path in binary tree - [BinaryTreeMaximumPathSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeMaximumPathSum.java)
