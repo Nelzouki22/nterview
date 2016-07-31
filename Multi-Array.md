@@ -6,6 +6,6 @@
 6. Print a 2D array in diagonal format - [MatrixInDiagonalOrder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixInDiagonalOrder.java)
 7. Create a 2D array of alternating Xs and 0s rectangles - [MatrixOf0sAnd1s.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MatrixOf0sAnd1s.java)
 8. Move in 2D array as per cell value - [MoveCellPerCellValue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/MoveCellPerCellValue.java)
-9. Turn image by 90 degree - [TurnImageBy90.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/TurnImageBy90.java)
+9. Rotate image by 90 degree - [RotateImage.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/RotateImage.java)
 11. Given a n by n board where n is of form 2k where k >= 1 (Basically n is a power of 2 with minimum value as 2). The board has one missing cell (of size 1 x 1). Fill the board using L shaped tiles. [TilingProblem.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/TilingProblem.java)
 12. Print matrix in spiral way - [SpiralPrinting.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multiarray/SpiralPrinting.java)
