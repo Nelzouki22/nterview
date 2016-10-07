@@ -61,3 +61,4 @@
 68. Lowest common ancestor in binary search tree - [LowestCommonAncestoryBinarySearchTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LowestCommonAncestoryBinarySearchTree.java)
 69. Inorder successor of binary tree - [InorderSuccessor.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/InorderSuccessor.java)
 70. Maximum sum path in binary tree - [BinaryTreeMaximumPathSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeMaximumPathSum.java)
+71. Count number of nodes in complete tree - [CountNodesCompleteTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/CountNodesCompleteTree.java)
