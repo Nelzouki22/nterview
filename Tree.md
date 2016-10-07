@@ -62,3 +62,5 @@
 69. Inorder successor of binary tree - [InorderSuccessor.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/InorderSuccessor.java)
 70. Maximum sum path in binary tree - [BinaryTreeMaximumPathSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/BinaryTreeMaximumPathSum.java)
 71. Count number of nodes in complete tree - [CountNodesCompleteTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/CountNodesCompleteTree.java)
+72. Check if binary tree is height balanced - [HeightBalanced.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/HeightBalanced.java)
+73. Given an array where elements are sorted in ascending order, convert it to a height balanced BST - [SortedArrayToBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SortedArrayToBST.java)
