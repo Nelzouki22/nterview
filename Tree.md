@@ -64,3 +64,4 @@
 71. Count number of nodes in complete tree - [CountNodesCompleteTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/CountNodesCompleteTree.java)
 72. Check if binary tree is height balanced - [HeightBalanced.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/HeightBalanced.java)
 73. Given an array where elements are sorted in ascending order, convert it to a height balanced BST - [SortedArrayToBST.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/SortedArrayToBST.java)
+74. Given a binary tree, flatten it to a linked list in-place in preorder traversal - [FlattenLinkListToBinaryTreePreorder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/FlattenLinkListToBinaryTreePreorder.java)
