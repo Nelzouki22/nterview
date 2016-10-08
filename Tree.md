@@ -67,3 +67,4 @@
 74. Given a binary tree, flatten it to a linked list in-place in preorder traversal - [FlattenLinkListToBinaryTreePreorder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/FlattenLinkListToBinaryTreePreorder.java)
 75. Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum - [PathSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/PathSum.java)
 76. Given a binary tree, count the number of uni-value subtrees - [CountUnivalueTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/CountUnivalueTree.java)
+77. Given a non-empty binary search tree and a target value, find k values in the BST that are closest to the target - [KClosestValueInBinaryTree.java.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/KClosestValueInBinaryTree.java)
