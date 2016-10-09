@@ -68,3 +68,4 @@
 75. Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum - [PathSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/PathSum.java)
 76. Given a binary tree, count the number of uni-value subtrees - [CountUnivalueTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/CountUnivalueTree.java)
 77. Given a non-empty binary search tree and a target value, find k values in the BST that are closest to the target - [KClosestValueInBinaryTree.java.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/KClosestValueInBinaryTree.java)
+78. Strip leaves of the tree and collect them in list - [LeavesOfBinaryTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LeavesOfBinaryTree.java)
