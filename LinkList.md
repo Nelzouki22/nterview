@@ -29,3 +29,4 @@
 30. Given two sorted linked lists, construct a linked list that contains maximum sum path from start to end. The result list may contain nodes from both input lists. [MergeForLargestSum.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/MergeForLargestSum.java)
 31. Given sorted linklist, delete all nodes which are duplicate - [DeleteDuplicateNodes.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/DeleteDuplicateNodes.java)
 32. Flatten 2D list - [Flatten2DList.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/Flatten2DList.java)
+33. Rotate list - [RotateList.java]((https://github.com/mission-peace/interview/blob/master/src/com/interview/linklist/RotateList.java)
