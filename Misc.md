@@ -17,3 +17,4 @@
 17. Given a read function which supports reading only 4 bytes implement a reader which can read bytes of given size - [Read4Function.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/Read4Function.java)
 18. Insert interval into sorted intervals and merge if needed - [InsertInterval.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/InsertInterval.java)
 19. Range minimum query using sparse table - [SparseTableRangeMinimumQuery.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/SparseTableRangeMinimumQuery.java)
+20. Implement parser for nested integer - [IntegerListParser.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/IntegerListParser.java)
