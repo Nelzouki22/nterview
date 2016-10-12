@@ -26,3 +26,4 @@
 27. Given a number, find number of trailing zeros in the factorial of this number - [Trailing0sinFactorial.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/Trailing0sinFactorial.java)
 28. Factorial of a large number - [FactorialOfLargeNumber](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/FactorialOfLargeNumber.java)
 29. Find mth number in array of [1..n] where m is defined by lexicographically order - [MthNumberInNSizeArray.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/MthNumberInNSizeArray.java)
+30. Apply +, -, /, * on given string - [BasicCalculator.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/number/BasicCalculator.java) 
