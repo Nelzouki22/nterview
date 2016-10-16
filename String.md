@@ -18,3 +18,4 @@
 18. Design an algorithm to encode and decode list of strings - [StringEncoderDecoder.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/StringEncoderDecoder.java)
 19. Given a string tell if it is a palindrome. Ignore cases and non alphanumeric characters - [ValidPalindrome.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/ValidPalindrome.java)
 20. Valid word abbreviation - [ValidWordAbbreviation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/ValidWordAbbreviation.java)
+21. Find palindrome pairs in array of unique words - [PalindromePair.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/PalindromePair.java)
