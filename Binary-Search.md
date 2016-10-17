@@ -11,3 +11,4 @@
 11. Given an array find an element which is larger than both its neighbors - [PeakElement.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/PeakElement.java)
 12. Given an array which is sorted and rotated find an element - [SortedAndRotatedArraySearch.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/SortedAndRotatedArraySearch.java)
 13. Search for range in sorted array - [SearchForRange.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/SearchForRange.java)
+14. Median of two sorted array of different size - [MedianOfTwoSortedArrayOfDifferentLength.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.java)
