@@ -24,3 +24,4 @@
 25. Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results - [RemoveInvalidParenthesis.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/RemoveInvalidParenthesis.java)
 26. Sudoku solver - [SudokuSolver.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/SudokuSolver.java)
 27. Restore ip address - [RestoreIPAddresses.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/RestoreIPAddresses.java)
+28. Find absolute longest path in directory structure represented by \n and \t - [LongestAbsolutePath.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/recursion/LongestAbsolutePath.java)
