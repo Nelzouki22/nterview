@@ -18,3 +18,4 @@
 18. Insert interval into sorted intervals and merge if needed - [InsertInterval.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/InsertInterval.java)
 19. Range minimum query using sparse table - [SparseTableRangeMinimumQuery.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/SparseTableRangeMinimumQuery.java)
 20. Implement parser for nested integer - [IntegerListParser.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/IntegerListParser.java)
+21. Given an array find if two numbers are at most t apart and at most k index away from each other - [ContainsNumberWithinKDistance.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/misc/ContainsNumberWithinKDistance.java )
