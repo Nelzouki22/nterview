@@ -39,3 +39,4 @@
 39. Given a graph representing tree find minimum height tree - [MinimumHeightTree.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/MinimumHeightTree.java)
 40. Wall and gates question - [WallsAndGates.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/WallsAndGates.java)
 41. Schedule courses with prerequisites - [CourseSchedule.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/CourseSchedule.java)
+42. Evaluate division b/w parameters given existing divisions - [EvaluateDivison.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/graph/EvaluateDivison.java )
