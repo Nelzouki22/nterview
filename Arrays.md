@@ -65,3 +65,4 @@ i to j is same. [LongestSameSumSpan.java](https://github.com/mission-peace/inter
 62. Determine if you can reach end of array. You can jump as much as value at every position of array - [JumpGame.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/JumpGame.java)
 63. Given a sorted array of integers nums and integer values a, b and c. Apply a function of the form f(x) = ax2 + bx + c to each element x in the array - [SortedArrayTransformation.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/SortedArrayTransformation.java)
 64. Find missing ranges in sorted array - [MissingRanges.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/MissingRanges.java)
+65. Given a sorted integer array without duplicates, return the summary of its ranges - [SummaryRanges.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/array/SummaryRanges.java)
