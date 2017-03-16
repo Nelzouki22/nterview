@@ -8,3 +8,4 @@
 8. Design threadsafe program to keep min and max - [MinMaxKeeper.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/MinMaxKeeper.java)
 9. BoundedBlockingQueue implementation(producer consumer) - [BoundedBlockingQueue.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/BoundedBlockingQueue.java)
 10. Implement increasing decreasing number printing - [PrintInSequence.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/PrintInSequence.java)
+11. Dependency task in parallel - [DependencyTaskExecutor.java](https://github.com/mission-peace/interview/blob/master/src/com/interview/multithreaded/DependencyTaskExecutor.java)
